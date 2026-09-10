@@ -1,0 +1,46 @@
+@import 'tailwindcss';
+
+/* ── Direction artistique ───────────────────────────────────────────────
+   Aplats saturés, angles droits, bordures épaisses type papier découpé.
+   Pas de gris neutre : l'encre est un bleu nuit (tinta).
+   ------------------------------------------------------------------- */
+@theme {
+  --color-azul: #1e3a8a;
+  --color-magenta: #e4007c;
+  --color-amarillo: #ffc700;
+  --color-verde: #009e5c;
+  --color-rojo: #d7263d;
+  --color-tinta: #10182b;
+
+  --font-display: 'Archivo Black', 'Arial Black', system-ui, sans-serif;
+  --font-sans: 'Inter', system-ui, 'Segoe UI', sans-serif;
+
+  /* Angles droits par défaut : on neutralise les arrondis de Tailwind. */
+  --radius-xs: 0px;
+  --radius-sm: 0px;
+  --radius-md: 0px;
+  --radius-lg: 0px;
+  --radius-xl: 0px;
+  --radius-2xl: 0px;
+  --radius-3xl: 0px;
+}
+
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    @apply bg-white font-sans text-tinta antialiased;
+  }
+
+  /* Le geste graphique récurrent : bordure épaisse "papier découpé". */
+  .decoupe {
+    @apply border-4 border-tinta;
+  }
+
+  /* Pas de surbrillance bleue au tap sur mobile. */
+  button {
+    -webkit-tap-highlight-color: transparent;
+  }
+}
