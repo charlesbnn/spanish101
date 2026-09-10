@@ -1,0 +1,1010 @@
+[
+  {
+    "infinitif": "abrir",
+    "groupe": "-IR régulier",
+    "present": {
+      "yo": "abro",
+      "tu": "abres",
+      "el_ella_usted": "abre",
+      "nosotros": "abrimos",
+      "vosotros": "abrís",
+      "ellos_ellas_ustedes": "abren"
+    }
+  },
+  {
+    "infinitif": "acostarse",
+    "groupe": "-AR o→ue (pronominal)",
+    "present": {
+      "yo": "me acuesto",
+      "tu": "te acuestas",
+      "el_ella_usted": "se acuesta",
+      "nosotros": "nos acostamos",
+      "vosotros": "os acostáis",
+      "ellos_ellas_ustedes": "se acuestan"
+    }
+  },
+  {
+    "infinitif": "aprender",
+    "groupe": "-ER régulier",
+    "present": {
+      "yo": "aprendo",
+      "tu": "aprendes",
+      "el_ella_usted": "aprende",
+      "nosotros": "aprendemos",
+      "vosotros": "aprendéis",
+      "ellos_ellas_ustedes": "aprenden"
+    }
+  },
+  {
+    "infinitif": "bailar",
+    "groupe": "-AR régulier",
+    "present": {
+      "yo": "bailo",
+      "tu": "bailas",
+      "el_ella_usted": "baila",
+      "nosotros": "bailamos",
+      "vosotros": "bailáis",
+      "ellos_ellas_ustedes": "bailan"
+    }
+  },
+  {
+    "infinitif": "bajar",
+    "groupe": "-AR régulier",
+    "present": {
+      "yo": "bajo",
+      "tu": "bajas",
+      "el_ella_usted": "baja",
+      "nosotros": "bajamos",
+      "vosotros": "bajáis",
+      "ellos_ellas_ustedes": "bajan"
+    }
+  },
+  {
+    "infinitif": "bañarse",
+    "groupe": "-AR régulier (pronominal)",
+    "present": {
+      "yo": "me baño",
+      "tu": "te bañas",
+      "el_ella_usted": "se baña",
+      "nosotros": "nos bañamos",
+      "vosotros": "os bañáis",
+      "ellos_ellas_ustedes": "se bañan"
+    }
+  },
+  {
+    "infinitif": "beber",
+    "groupe": "-ER régulier",
+    "present": {
+      "yo": "bebo",
+      "tu": "bebes",
+      "el_ella_usted": "bebe",
+      "nosotros": "bebemos",
+      "vosotros": "bebéis",
+      "ellos_ellas_ustedes": "beben"
+    }
+  },
+  {
+    "infinitif": "buscar",
+    "groupe": "-AR régulier",
+    "present": {
+      "yo": "busco",
+      "tu": "buscas",
+      "el_ella_usted": "busca",
+      "nosotros": "buscamos",
+      "vosotros": "buscáis",
+      "ellos_ellas_ustedes": "buscan"
+    }
+  },
+  {
+    "infinitif": "cantar",
+    "groupe": "-AR régulier",
+    "present": {
+      "yo": "canto",
+      "tu": "cantas",
+      "el_ella_usted": "canta",
+      "nosotros": "cantamos",
+      "vosotros": "cantáis",
+      "ellos_ellas_ustedes": "cantan"
+    }
+  },
+  {
+    "infinitif": "cenar",
+    "groupe": "-AR régulier",
+    "present": {
+      "yo": "ceno",
+      "tu": "cenas",
+      "el_ella_usted": "cena",
+      "nosotros": "cenamos",
+      "vosotros": "cenáis",
+      "ellos_ellas_ustedes": "cenan"
+    }
+  },
+  {
+    "infinitif": "cerrar",
+    "groupe": "-AR e→ie",
+    "present": {
+      "yo": "cierro",
+      "tu": "cierras",
+      "el_ella_usted": "cierra",
+      "nosotros": "cerramos",
+      "vosotros": "cerráis",
+      "ellos_ellas_ustedes": "cierran"
+    }
+  },
+  {
+    "infinitif": "cocinar",
+    "groupe": "-AR régulier",
+    "present": {
+      "yo": "cocino",
+      "tu": "cocinas",
+      "el_ella_usted": "cocina",
+      "nosotros": "cocinamos",
+      "vosotros": "cocináis",
+      "ellos_ellas_ustedes": "cocinan"
+    }
+  },
+  {
+    "infinitif": "comer",
+    "groupe": "-ER régulier",
+    "present": {
+      "yo": "como",
+      "tu": "comes",
+      "el_ella_usted": "come",
+      "nosotros": "comemos",
+      "vosotros": "coméis",
+      "ellos_ellas_ustedes": "comen"
+    }
+  },
+  {
+    "infinitif": "comprar",
+    "groupe": "-AR régulier",
+    "present": {
+      "yo": "compro",
+      "tu": "compras",
+      "el_ella_usted": "compra",
+      "nosotros": "compramos",
+      "vosotros": "compráis",
+      "ellos_ellas_ustedes": "compran"
+    }
+  },
+  {
+    "infinitif": "correr",
+    "groupe": "-ER régulier",
+    "present": {
+      "yo": "corro",
+      "tu": "corres",
+      "el_ella_usted": "corre",
+      "nosotros": "corremos",
+      "vosotros": "corréis",
+      "ellos_ellas_ustedes": "corren"
+    }
+  },
+  {
+    "infinitif": "costar",
+    "groupe": "-AR o→ue",
+    "present": {
+      "yo": "cuesto",
+      "tu": "cuestas",
+      "el_ella_usted": "cuesta",
+      "nosotros": "costamos",
+      "vosotros": "costáis",
+      "ellos_ellas_ustedes": "cuestan"
+    }
+  },
+  {
+    "infinitif": "creer",
+    "groupe": "-ER régulier",
+    "present": {
+      "yo": "creo",
+      "tu": "crees",
+      "el_ella_usted": "cree",
+      "nosotros": "creemos",
+      "vosotros": "creéis",
+      "ellos_ellas_ustedes": "creen"
+    }
+  },
+  {
+    "infinitif": "dar",
+    "groupe": "irrégulier",
+    "present": {
+      "yo": "doy",
+      "tu": "das",
+      "el_ella_usted": "da",
+      "nosotros": "damos",
+      "vosotros": "dais",
+      "ellos_ellas_ustedes": "dan"
+    }
+  },
+  {
+    "infinitif": "deber",
+    "groupe": "-ER régulier",
+    "present": {
+      "yo": "debo",
+      "tu": "debes",
+      "el_ella_usted": "debe",
+      "nosotros": "debemos",
+      "vosotros": "debéis",
+      "ellos_ellas_ustedes": "deben"
+    }
+  },
+  {
+    "infinitif": "deletrear",
+    "groupe": "-AR régulier",
+    "present": {
+      "yo": "deletreo",
+      "tu": "deletreas",
+      "el_ella_usted": "deletrea",
+      "nosotros": "deletreamos",
+      "vosotros": "deletreáis",
+      "ellos_ellas_ustedes": "deletrean"
+    }
+  },
+  {
+    "infinitif": "desayunar",
+    "groupe": "-AR régulier",
+    "present": {
+      "yo": "desayuno",
+      "tu": "desayunas",
+      "el_ella_usted": "desayuna",
+      "nosotros": "desayunamos",
+      "vosotros": "desayunáis",
+      "ellos_ellas_ustedes": "desayunan"
+    }
+  },
+  {
+    "infinitif": "descansar",
+    "groupe": "-AR régulier",
+    "present": {
+      "yo": "descanso",
+      "tu": "descansas",
+      "el_ella_usted": "descansa",
+      "nosotros": "descansamos",
+      "vosotros": "descansáis",
+      "ellos_ellas_ustedes": "descansan"
+    }
+  },
+  {
+    "infinitif": "despertarse",
+    "groupe": "-AR e→ie (pronominal)",
+    "present": {
+      "yo": "me despierto",
+      "tu": "te despiertas",
+      "el_ella_usted": "se despierta",
+      "nosotros": "nos despertamos",
+      "vosotros": "os despertáis",
+      "ellos_ellas_ustedes": "se despiertan"
+    }
+  },
+  {
+    "infinitif": "doler",
+    "groupe": "-ER o→ue (verbe de type gustar)",
+    "present": {
+      "yo": "duelo",
+      "tu": "dueles",
+      "el_ella_usted": "duele",
+      "nosotros": "dolemos",
+      "vosotros": "doléis",
+      "ellos_ellas_ustedes": "duelen"
+    }
+  },
+  {
+    "infinitif": "dormir",
+    "groupe": "-IR o→ue",
+    "present": {
+      "yo": "duermo",
+      "tu": "duermes",
+      "el_ella_usted": "duerme",
+      "nosotros": "dormimos",
+      "vosotros": "dormís",
+      "ellos_ellas_ustedes": "duermen"
+    }
+  },
+  {
+    "infinitif": "ducharse",
+    "groupe": "-AR régulier (pronominal)",
+    "present": {
+      "yo": "me ducho",
+      "tu": "te duchas",
+      "el_ella_usted": "se ducha",
+      "nosotros": "nos duchamos",
+      "vosotros": "os ducháis",
+      "ellos_ellas_ustedes": "se duchan"
+    }
+  },
+  {
+    "infinitif": "empezar",
+    "groupe": "-AR e→ie",
+    "present": {
+      "yo": "empiezo",
+      "tu": "empiezas",
+      "el_ella_usted": "empieza",
+      "nosotros": "empezamos",
+      "vosotros": "empezáis",
+      "ellos_ellas_ustedes": "empiezan"
+    }
+  },
+  {
+    "infinitif": "encantar",
+    "groupe": "-AR régulier (verbe de type gustar)",
+    "present": {
+      "yo": "encanto",
+      "tu": "encantas",
+      "el_ella_usted": "encanta",
+      "nosotros": "encantamos",
+      "vosotros": "encantáis",
+      "ellos_ellas_ustedes": "encantan"
+    }
+  },
+  {
+    "infinitif": "encontrar",
+    "groupe": "-AR o→ue",
+    "present": {
+      "yo": "encuentro",
+      "tu": "encuentras",
+      "el_ella_usted": "encuentra",
+      "nosotros": "encontramos",
+      "vosotros": "encontráis",
+      "ellos_ellas_ustedes": "encuentran"
+    }
+  },
+  {
+    "infinitif": "enseñar",
+    "groupe": "-AR régulier",
+    "present": {
+      "yo": "enseño",
+      "tu": "enseñas",
+      "el_ella_usted": "enseña",
+      "nosotros": "enseñamos",
+      "vosotros": "enseñáis",
+      "ellos_ellas_ustedes": "enseñan"
+    }
+  },
+  {
+    "infinitif": "entender",
+    "groupe": "-ER e→ie",
+    "present": {
+      "yo": "entiendo",
+      "tu": "entiendes",
+      "el_ella_usted": "entiende",
+      "nosotros": "entendemos",
+      "vosotros": "entendéis",
+      "ellos_ellas_ustedes": "entienden"
+    }
+  },
+  {
+    "infinitif": "entrar",
+    "groupe": "-AR régulier",
+    "present": {
+      "yo": "entro",
+      "tu": "entras",
+      "el_ella_usted": "entra",
+      "nosotros": "entramos",
+      "vosotros": "entráis",
+      "ellos_ellas_ustedes": "entran"
+    }
+  },
+  {
+    "infinitif": "escribir",
+    "groupe": "-IR régulier",
+    "present": {
+      "yo": "escribo",
+      "tu": "escribes",
+      "el_ella_usted": "escribe",
+      "nosotros": "escribimos",
+      "vosotros": "escribís",
+      "ellos_ellas_ustedes": "escriben"
+    }
+  },
+  {
+    "infinitif": "escuchar",
+    "groupe": "-AR régulier",
+    "present": {
+      "yo": "escucho",
+      "tu": "escuchas",
+      "el_ella_usted": "escucha",
+      "nosotros": "escuchamos",
+      "vosotros": "escucháis",
+      "ellos_ellas_ustedes": "escuchan"
+    }
+  },
+  {
+    "infinitif": "esperar",
+    "groupe": "-AR régulier",
+    "present": {
+      "yo": "espero",
+      "tu": "esperas",
+      "el_ella_usted": "espera",
+      "nosotros": "esperamos",
+      "vosotros": "esperáis",
+      "ellos_ellas_ustedes": "esperan"
+    }
+  },
+  {
+    "infinitif": "estar",
+    "groupe": "irrégulier",
+    "present": {
+      "yo": "estoy",
+      "tu": "estás",
+      "el_ella_usted": "está",
+      "nosotros": "estamos",
+      "vosotros": "estáis",
+      "ellos_ellas_ustedes": "están"
+    }
+  },
+  {
+    "infinitif": "estudiar",
+    "groupe": "-AR régulier",
+    "present": {
+      "yo": "estudio",
+      "tu": "estudias",
+      "el_ella_usted": "estudia",
+      "nosotros": "estudiamos",
+      "vosotros": "estudiáis",
+      "ellos_ellas_ustedes": "estudian"
+    }
+  },
+  {
+    "infinitif": "ganar",
+    "groupe": "-AR régulier",
+    "present": {
+      "yo": "gano",
+      "tu": "ganas",
+      "el_ella_usted": "gana",
+      "nosotros": "ganamos",
+      "vosotros": "ganáis",
+      "ellos_ellas_ustedes": "ganan"
+    }
+  },
+  {
+    "infinitif": "gustar",
+    "groupe": "-AR régulier (verbe de type gustar)",
+    "present": {
+      "yo": "gusto",
+      "tu": "gustas",
+      "el_ella_usted": "gusta",
+      "nosotros": "gustamos",
+      "vosotros": "gustáis",
+      "ellos_ellas_ustedes": "gustan"
+    }
+  },
+  {
+    "infinitif": "hablar",
+    "groupe": "-AR régulier",
+    "present": {
+      "yo": "hablo",
+      "tu": "hablas",
+      "el_ella_usted": "habla",
+      "nosotros": "hablamos",
+      "vosotros": "habláis",
+      "ellos_ellas_ustedes": "hablan"
+    }
+  },
+  {
+    "infinitif": "hacer",
+    "groupe": "irrégulier",
+    "present": {
+      "yo": "hago",
+      "tu": "haces",
+      "el_ella_usted": "hace",
+      "nosotros": "hacemos",
+      "vosotros": "hacéis",
+      "ellos_ellas_ustedes": "hacen"
+    }
+  },
+  {
+    "infinitif": "ir",
+    "groupe": "irrégulier",
+    "present": {
+      "yo": "voy",
+      "tu": "vas",
+      "el_ella_usted": "va",
+      "nosotros": "vamos",
+      "vosotros": "vais",
+      "ellos_ellas_ustedes": "van"
+    }
+  },
+  {
+    "infinitif": "jugar",
+    "groupe": "-AR u→ue",
+    "present": {
+      "yo": "juego",
+      "tu": "juegas",
+      "el_ella_usted": "juega",
+      "nosotros": "jugamos",
+      "vosotros": "jugáis",
+      "ellos_ellas_ustedes": "juegan"
+    }
+  },
+  {
+    "infinitif": "lavarse",
+    "groupe": "-AR régulier (pronominal)",
+    "present": {
+      "yo": "me lavo",
+      "tu": "te lavas",
+      "el_ella_usted": "se lava",
+      "nosotros": "nos lavamos",
+      "vosotros": "os laváis",
+      "ellos_ellas_ustedes": "se lavan"
+    }
+  },
+  {
+    "infinitif": "leer",
+    "groupe": "-ER régulier",
+    "present": {
+      "yo": "leo",
+      "tu": "lees",
+      "el_ella_usted": "lee",
+      "nosotros": "leemos",
+      "vosotros": "leéis",
+      "ellos_ellas_ustedes": "leen"
+    }
+  },
+  {
+    "infinitif": "levantarse",
+    "groupe": "-AR régulier (pronominal)",
+    "present": {
+      "yo": "me levanto",
+      "tu": "te levantas",
+      "el_ella_usted": "se levanta",
+      "nosotros": "nos levantamos",
+      "vosotros": "os levantáis",
+      "ellos_ellas_ustedes": "se levantan"
+    }
+  },
+  {
+    "infinitif": "limpiar",
+    "groupe": "-AR régulier",
+    "present": {
+      "yo": "limpio",
+      "tu": "limpias",
+      "el_ella_usted": "limpia",
+      "nosotros": "limpiamos",
+      "vosotros": "limpiáis",
+      "ellos_ellas_ustedes": "limpian"
+    }
+  },
+  {
+    "infinitif": "llamarse",
+    "groupe": "-AR régulier (pronominal)",
+    "present": {
+      "yo": "me llamo",
+      "tu": "te llamas",
+      "el_ella_usted": "se llama",
+      "nosotros": "nos llamamos",
+      "vosotros": "os llamáis",
+      "ellos_ellas_ustedes": "se llaman"
+    }
+  },
+  {
+    "infinitif": "llevar",
+    "groupe": "-AR régulier",
+    "present": {
+      "yo": "llevo",
+      "tu": "llevas",
+      "el_ella_usted": "lleva",
+      "nosotros": "llevamos",
+      "vosotros": "lleváis",
+      "ellos_ellas_ustedes": "llevan"
+    }
+  },
+  {
+    "infinitif": "nadar",
+    "groupe": "-AR régulier",
+    "present": {
+      "yo": "nado",
+      "tu": "nadas",
+      "el_ella_usted": "nada",
+      "nosotros": "nadamos",
+      "vosotros": "nadáis",
+      "ellos_ellas_ustedes": "nadan"
+    }
+  },
+  {
+    "infinitif": "necesitar",
+    "groupe": "-AR régulier",
+    "present": {
+      "yo": "necesito",
+      "tu": "necesitas",
+      "el_ella_usted": "necesita",
+      "nosotros": "necesitamos",
+      "vosotros": "necesitáis",
+      "ellos_ellas_ustedes": "necesitan"
+    }
+  },
+  {
+    "infinitif": "odiar",
+    "groupe": "-AR régulier",
+    "present": {
+      "yo": "odio",
+      "tu": "odias",
+      "el_ella_usted": "odia",
+      "nosotros": "odiamos",
+      "vosotros": "odiáis",
+      "ellos_ellas_ustedes": "odian"
+    }
+  },
+  {
+    "infinitif": "ordenar",
+    "groupe": "-AR régulier",
+    "present": {
+      "yo": "ordeno",
+      "tu": "ordenas",
+      "el_ella_usted": "ordena",
+      "nosotros": "ordenamos",
+      "vosotros": "ordenáis",
+      "ellos_ellas_ustedes": "ordenan"
+    }
+  },
+  {
+    "infinitif": "pagar",
+    "groupe": "-AR régulier",
+    "present": {
+      "yo": "pago",
+      "tu": "pagas",
+      "el_ella_usted": "paga",
+      "nosotros": "pagamos",
+      "vosotros": "pagáis",
+      "ellos_ellas_ustedes": "pagan"
+    }
+  },
+  {
+    "infinitif": "pasear",
+    "groupe": "-AR régulier",
+    "present": {
+      "yo": "paseo",
+      "tu": "paseas",
+      "el_ella_usted": "pasea",
+      "nosotros": "paseamos",
+      "vosotros": "paseáis",
+      "ellos_ellas_ustedes": "pasean"
+    }
+  },
+  {
+    "infinitif": "peinarse",
+    "groupe": "-AR régulier (pronominal)",
+    "present": {
+      "yo": "me peino",
+      "tu": "te peinas",
+      "el_ella_usted": "se peina",
+      "nosotros": "nos peinamos",
+      "vosotros": "os peináis",
+      "ellos_ellas_ustedes": "se peinan"
+    }
+  },
+  {
+    "infinitif": "pensar",
+    "groupe": "-AR e→ie",
+    "present": {
+      "yo": "pienso",
+      "tu": "piensas",
+      "el_ella_usted": "piensa",
+      "nosotros": "pensamos",
+      "vosotros": "pensáis",
+      "ellos_ellas_ustedes": "piensan"
+    }
+  },
+  {
+    "infinitif": "poder",
+    "groupe": "-ER o→ue",
+    "present": {
+      "yo": "puedo",
+      "tu": "puedes",
+      "el_ella_usted": "puede",
+      "nosotros": "podemos",
+      "vosotros": "podéis",
+      "ellos_ellas_ustedes": "pueden"
+    }
+  },
+  {
+    "infinitif": "poner",
+    "groupe": "irrégulier",
+    "present": {
+      "yo": "pongo",
+      "tu": "pones",
+      "el_ella_usted": "pone",
+      "nosotros": "ponemos",
+      "vosotros": "ponéis",
+      "ellos_ellas_ustedes": "ponen"
+    }
+  },
+  {
+    "infinitif": "ponerse",
+    "groupe": "irrégulier (pronominal)",
+    "present": {
+      "yo": "me pongo",
+      "tu": "te pones",
+      "el_ella_usted": "se pone",
+      "nosotros": "nos ponemos",
+      "vosotros": "os ponéis",
+      "ellos_ellas_ustedes": "se ponen"
+    }
+  },
+  {
+    "infinitif": "preferir",
+    "groupe": "-IR e→ie",
+    "present": {
+      "yo": "prefiero",
+      "tu": "prefieres",
+      "el_ella_usted": "prefiere",
+      "nosotros": "preferimos",
+      "vosotros": "preferís",
+      "ellos_ellas_ustedes": "prefieren"
+    }
+  },
+  {
+    "infinitif": "preguntar",
+    "groupe": "-AR régulier",
+    "present": {
+      "yo": "pregunto",
+      "tu": "preguntas",
+      "el_ella_usted": "pregunta",
+      "nosotros": "preguntamos",
+      "vosotros": "preguntáis",
+      "ellos_ellas_ustedes": "preguntan"
+    }
+  },
+  {
+    "infinitif": "presentarse",
+    "groupe": "-AR régulier (pronominal)",
+    "present": {
+      "yo": "me presento",
+      "tu": "te presentas",
+      "el_ella_usted": "se presenta",
+      "nosotros": "nos presentamos",
+      "vosotros": "os presentáis",
+      "ellos_ellas_ustedes": "se presentan"
+    }
+  },
+  {
+    "infinitif": "probar",
+    "groupe": "-AR o→ue",
+    "present": {
+      "yo": "pruebo",
+      "tu": "pruebas",
+      "el_ella_usted": "prueba",
+      "nosotros": "probamos",
+      "vosotros": "probáis",
+      "ellos_ellas_ustedes": "prueban"
+    }
+  },
+  {
+    "infinitif": "querer",
+    "groupe": "-ER e→ie",
+    "present": {
+      "yo": "quiero",
+      "tu": "quieres",
+      "el_ella_usted": "quiere",
+      "nosotros": "queremos",
+      "vosotros": "queréis",
+      "ellos_ellas_ustedes": "quieren"
+    }
+  },
+  {
+    "infinitif": "repetir",
+    "groupe": "-IR e→i",
+    "present": {
+      "yo": "repito",
+      "tu": "repites",
+      "el_ella_usted": "repite",
+      "nosotros": "repetimos",
+      "vosotros": "repetís",
+      "ellos_ellas_ustedes": "repiten"
+    }
+  },
+  {
+    "infinitif": "responder",
+    "groupe": "-ER régulier",
+    "present": {
+      "yo": "respondo",
+      "tu": "respondes",
+      "el_ella_usted": "responde",
+      "nosotros": "respondemos",
+      "vosotros": "respondéis",
+      "ellos_ellas_ustedes": "responden"
+    }
+  },
+  {
+    "infinitif": "saber",
+    "groupe": "irrégulier",
+    "present": {
+      "yo": "sé",
+      "tu": "sabes",
+      "el_ella_usted": "sabe",
+      "nosotros": "sabemos",
+      "vosotros": "sabéis",
+      "ellos_ellas_ustedes": "saben"
+    }
+  },
+  {
+    "infinitif": "salir",
+    "groupe": "irrégulier",
+    "present": {
+      "yo": "salgo",
+      "tu": "sales",
+      "el_ella_usted": "sale",
+      "nosotros": "salimos",
+      "vosotros": "salís",
+      "ellos_ellas_ustedes": "salen"
+    }
+  },
+  {
+    "infinitif": "sentarse",
+    "groupe": "-AR e→ie (pronominal)",
+    "present": {
+      "yo": "me siento",
+      "tu": "te sientas",
+      "el_ella_usted": "se sienta",
+      "nosotros": "nos sentamos",
+      "vosotros": "os sentáis",
+      "ellos_ellas_ustedes": "se sientan"
+    }
+  },
+  {
+    "infinitif": "sentirse",
+    "groupe": "-IR e→ie (pronominal)",
+    "present": {
+      "yo": "me siento",
+      "tu": "te sientes",
+      "el_ella_usted": "se siente",
+      "nosotros": "nos sentimos",
+      "vosotros": "os sentís",
+      "ellos_ellas_ustedes": "se sienten"
+    }
+  },
+  {
+    "infinitif": "ser",
+    "groupe": "irrégulier",
+    "present": {
+      "yo": "soy",
+      "tu": "eres",
+      "el_ella_usted": "es",
+      "nosotros": "somos",
+      "vosotros": "sois",
+      "ellos_ellas_ustedes": "son"
+    }
+  },
+  {
+    "infinitif": "subir",
+    "groupe": "-IR régulier",
+    "present": {
+      "yo": "subo",
+      "tu": "subes",
+      "el_ella_usted": "sube",
+      "nosotros": "subimos",
+      "vosotros": "subís",
+      "ellos_ellas_ustedes": "suben"
+    }
+  },
+  {
+    "infinitif": "tener",
+    "groupe": "irrégulier",
+    "present": {
+      "yo": "tengo",
+      "tu": "tienes",
+      "el_ella_usted": "tiene",
+      "nosotros": "tenemos",
+      "vosotros": "tenéis",
+      "ellos_ellas_ustedes": "tienen"
+    }
+  },
+  {
+    "infinitif": "terminar",
+    "groupe": "-AR régulier",
+    "present": {
+      "yo": "termino",
+      "tu": "terminas",
+      "el_ella_usted": "termina",
+      "nosotros": "terminamos",
+      "vosotros": "termináis",
+      "ellos_ellas_ustedes": "terminan"
+    }
+  },
+  {
+    "infinitif": "tomar",
+    "groupe": "-AR régulier",
+    "present": {
+      "yo": "tomo",
+      "tu": "tomas",
+      "el_ella_usted": "toma",
+      "nosotros": "tomamos",
+      "vosotros": "tomáis",
+      "ellos_ellas_ustedes": "toman"
+    }
+  },
+  {
+    "infinitif": "trabajar",
+    "groupe": "-AR régulier",
+    "present": {
+      "yo": "trabajo",
+      "tu": "trabajas",
+      "el_ella_usted": "trabaja",
+      "nosotros": "trabajamos",
+      "vosotros": "trabajáis",
+      "ellos_ellas_ustedes": "trabajan"
+    }
+  },
+  {
+    "infinitif": "vender",
+    "groupe": "-ER régulier",
+    "present": {
+      "yo": "vendo",
+      "tu": "vendes",
+      "el_ella_usted": "vende",
+      "nosotros": "vendemos",
+      "vosotros": "vendéis",
+      "ellos_ellas_ustedes": "venden"
+    }
+  },
+  {
+    "infinitif": "venir",
+    "groupe": "irrégulier",
+    "present": {
+      "yo": "vengo",
+      "tu": "vienes",
+      "el_ella_usted": "viene",
+      "nosotros": "venimos",
+      "vosotros": "venís",
+      "ellos_ellas_ustedes": "vienen"
+    }
+  },
+  {
+    "infinitif": "ver",
+    "groupe": "irrégulier",
+    "present": {
+      "yo": "veo",
+      "tu": "ves",
+      "el_ella_usted": "ve",
+      "nosotros": "vemos",
+      "vosotros": "veis",
+      "ellos_ellas_ustedes": "ven"
+    }
+  },
+  {
+    "infinitif": "vestirse",
+    "groupe": "-IR e→i (pronominal)",
+    "present": {
+      "yo": "me visto",
+      "tu": "te vistes",
+      "el_ella_usted": "se viste",
+      "nosotros": "nos vestimos",
+      "vosotros": "os vestís",
+      "ellos_ellas_ustedes": "se visten"
+    }
+  },
+  {
+    "infinitif": "viajar",
+    "groupe": "-AR régulier",
+    "present": {
+      "yo": "viajo",
+      "tu": "viajas",
+      "el_ella_usted": "viaja",
+      "nosotros": "viajamos",
+      "vosotros": "viajáis",
+      "ellos_ellas_ustedes": "viajan"
+    }
+  },
+  {
+    "infinitif": "vivir",
+    "groupe": "-IR régulier",
+    "present": {
+      "yo": "vivo",
+      "tu": "vives",
+      "el_ella_usted": "vive",
+      "nosotros": "vivimos",
+      "vosotros": "vivís",
+      "ellos_ellas_ustedes": "viven"
+    }
+  },
+  {
+    "infinitif": "volar",
+    "groupe": "-AR o→ue",
+    "present": {
+      "yo": "vuelo",
+      "tu": "vuelas",
+      "el_ella_usted": "vuela",
+      "nosotros": "volamos",
+      "vosotros": "voláis",
+      "ellos_ellas_ustedes": "vuelan"
+    }
+  }
+]

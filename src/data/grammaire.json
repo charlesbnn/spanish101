@@ -1,0 +1,233 @@
+[
+  {
+    "titre": "Présent de l'indicatif — verbes en -AR",
+    "niveau": "A1",
+    "type": "conjugaison",
+    "explication": "On enlève la terminaison -ar et on ajoute -o, -as, -a, -amos, -áis, -an.",
+    "exemple": "hablar → hablo, hablas, habla, hablamos, habláis, hablan"
+  },
+  {
+    "titre": "Présent de l'indicatif — verbes en -ER",
+    "niveau": "A1",
+    "type": "conjugaison",
+    "explication": "On enlève la terminaison -er et on ajoute -o, -es, -e, -emos, -éis, -en.",
+    "exemple": "comer → como, comes, come, comemos, coméis, comen"
+  },
+  {
+    "titre": "Présent de l'indicatif — verbes en -IR",
+    "niveau": "A1",
+    "type": "conjugaison",
+    "explication": "On enlève la terminaison -ir et on ajoute -o, -es, -e, -imos, -ís, -en. Seules les formes nosotros et vosotros diffèrent des verbes en -ER.",
+    "exemple": "vivir → vivo, vives, vive, vivimos, vivís, viven"
+  },
+  {
+    "titre": "SER ou ESTAR : deux verbes pour « être »",
+    "niveau": "A1",
+    "type": "conjugaison",
+    "explication": "SER (soy, eres, es, somos, sois, son) sert à l'identité, l'origine, la profession, le caractère et l'heure. ESTAR (estoy, estás, está, estamos, estáis, están) sert au lieu et à l'état passager.",
+    "exemple": "Soy francés. / Estoy en casa. — Ana es simpática (caractère) vs Ana está cansada (état du moment)."
+  },
+  {
+    "titre": "TENER et l'expression de l'âge",
+    "niveau": "A1",
+    "type": "conjugaison",
+    "explication": "TENER est irrégulier : tengo, tienes, tiene, tenemos, tenéis, tienen. L'espagnol dit « avoir X ans », comme le français, mais aussi « avoir faim / soif / froid » là où le français dit « être ».",
+    "exemple": "Tengo veinte años. · Tengo hambre. · Tenemos frío."
+  },
+  {
+    "titre": "Verbes à diphtongue E → IE",
+    "niveau": "A2",
+    "type": "conjugaison",
+    "explication": "Le E du radical devient IE quand il est accentué, donc partout SAUF à nosotros et vosotros.",
+    "exemple": "querer → quiero, quieres, quiere, queremos, queréis, quieren (aussi : pensar, cerrar, empezar, entender, preferir)"
+  },
+  {
+    "titre": "Verbes à diphtongue O → UE",
+    "niveau": "A2",
+    "type": "conjugaison",
+    "explication": "Le O du radical devient UE partout sauf à nosotros et vosotros. JUGAR suit le même schéma avec U → UE.",
+    "exemple": "poder → puedo, puedes, puede, podemos, podéis, pueden · jugar → juego, juegas, juega, jugamos, jugáis, juegan"
+  },
+  {
+    "titre": "Verbes à alternance E → I",
+    "niveau": "A2",
+    "type": "conjugaison",
+    "explication": "Certains verbes en -IR changent le E du radical en I, sauf à nosotros et vosotros.",
+    "exemple": "repetir → repito, repites, repite, repetimos, repetís, repiten (aussi : vestirse, pedir, seguir)"
+  },
+  {
+    "titre": "Verbes irréguliers à la 1re personne",
+    "niveau": "A2",
+    "type": "conjugaison",
+    "explication": "Beaucoup de verbes ne sont irréguliers qu'à la forme « yo » ; le reste se conjugue normalement.",
+    "exemple": "hacer → hago · poner → pongo · salir → salgo · saber → sé · dar → doy · ver → veo"
+  },
+  {
+    "titre": "Les verbes pronominaux",
+    "niveau": "A1",
+    "type": "conjugaison",
+    "explication": "L'infinitif se termine par -se. Le pronom (me, te, se, nos, os, se) se place AVANT le verbe conjugué, et se colle à la fin de l'infinitif.",
+    "exemple": "llamarse → me llamo, te llamas, se llama, nos llamamos, os llamáis, se llaman · Voy a ducharme."
+  },
+  {
+    "titre": "Le présent progressif (estar + gérondif)",
+    "niveau": "A2",
+    "type": "conjugaison",
+    "explication": "Pour dire qu'une action est en cours : ESTAR conjugué + gérondif. Gérondif = radical + -ando (verbes en -AR) ou + -iendo (verbes en -ER / -IR).",
+    "exemple": "Estoy hablando por teléfono. · Los niños están comiendo. · ¿Qué estás haciendo?"
+  },
+  {
+    "titre": "Le futur proche : IR A + infinitif",
+    "niveau": "A2",
+    "type": "syntaxe",
+    "explication": "IR conjugué (voy, vas, va, vamos, vais, van) + A + infinitif exprime une action prévue, comme « aller + infinitif » en français.",
+    "exemple": "Voy a comprar pan. · Vamos a viajar a España."
+  },
+  {
+    "titre": "TENER QUE : exprimer l'obligation",
+    "niveau": "A2",
+    "type": "syntaxe",
+    "explication": "TENER QUE + infinitif = devoir faire quelque chose. HAY QUE + infinitif exprime une obligation impersonnelle (« il faut »).",
+    "exemple": "Tengo que estudiar. · Hay que llegar temprano."
+  },
+  {
+    "titre": "HAY ou ESTÁ : signaler ou localiser",
+    "niveau": "A2",
+    "type": "syntaxe",
+    "explication": "HAY (invariable) signale l'existence de quelque chose d'indéterminé. ESTAR localise une chose déjà identifiée (avec article défini, nom propre ou possessif).",
+    "exemple": "En el salón hay un sofá. · El sofá está en el salón. · Hay tres libros / Los libros están en la mesa."
+  },
+  {
+    "titre": "Les articles définis et indéfinis",
+    "niveau": "A1",
+    "type": "articles",
+    "explication": "Définis : el (masc. sing.), la (fém. sing.), los, las. Indéfinis : un, una, unos, unas. L'espagnol emploie l'article défini devant les titres et les jours de la semaine.",
+    "exemple": "el libro, la mesa, los libros, las mesas · El señor García. · Los lunes voy al gimnasio."
+  },
+  {
+    "titre": "Les contractions AL et DEL",
+    "niveau": "A1",
+    "type": "articles",
+    "explication": "a + el devient AL, de + el devient DEL. Ces deux contractions sont obligatoires ; avec la, los, las il n'y a jamais de contraction.",
+    "exemple": "Voy al mercado. · La puerta del colegio. · Mais : Voy a la playa, la casa de los abuelos."
+  },
+  {
+    "titre": "Un article masculin devant un nom féminin",
+    "niveau": "A2",
+    "type": "articles",
+    "explication": "Les noms féminins commençant par un A- ou HA- accentué prennent EL au singulier, pour éviter la répétition du son. Ils restent féminins : l'adjectif s'accorde au féminin et le pluriel reprend LAS.",
+    "exemple": "el agua fría → las aguas · el aula pequeña → las aulas"
+  },
+  {
+    "titre": "Le genre des noms",
+    "niveau": "A1",
+    "type": "accords",
+    "explication": "En général, les noms en -O sont masculins et ceux en -A féminins. Les noms en -CIÓN, -SIÓN, -DAD, -TAD sont féminins. Attention aux noms dont le genre diffère du français.",
+    "exemple": "el libro, la casa, la canción, la ciudad · Différences avec le français : la leche (le lait), el coche (la voiture), la sal (le sel)."
+  },
+  {
+    "titre": "Le pluriel des noms et des adjectifs",
+    "niveau": "A1",
+    "type": "accords",
+    "explication": "On ajoute -S après une voyelle, -ES après une consonne. Les mots en -Z font leur pluriel en -CES.",
+    "exemple": "casa → casas · profesor → profesores · lápiz → lápices"
+  },
+  {
+    "titre": "L'accord de l'adjectif",
+    "niveau": "A1",
+    "type": "accords",
+    "explication": "L'adjectif s'accorde en genre et en nombre avec le nom, et se place le plus souvent APRÈS lui. Les adjectifs en -E ou en consonne ont une seule forme au singulier.",
+    "exemple": "un coche rojo / una casa roja / unos coches rojos · un chico inteligente / una chica inteligente"
+  },
+  {
+    "titre": "Les comparatifs",
+    "niveau": "A2",
+    "type": "syntaxe",
+    "explication": "Supériorité : más + adjectif + que. Infériorité : menos + adjectif + que. Égalité : tan + adjectif + como. Quatre comparatifs sont irréguliers : mejor, peor, mayor, menor.",
+    "exemple": "El panadero es más madrugador que el profesor. · Ana es tan alta como su hermana. · Este libro es mejor que el otro."
+  },
+  {
+    "titre": "Les possessifs",
+    "niveau": "A1",
+    "type": "pronoms",
+    "explication": "mi, tu, su, nuestro, vuestro, su se placent devant le nom et s'accordent en nombre (et en genre pour nuestro/vuestro). SU sert pour « son/sa » et « leur ».",
+    "exemple": "mi hermano, mis hermanos · nuestra casa, nuestras casas · su padre (= le père de lui, d'elle, d'eux ou de vous [usted])"
+  },
+  {
+    "titre": "Les pronoms sujets et le vouvoiement",
+    "niveau": "A1",
+    "type": "pronoms",
+    "explication": "yo, tú, él/ella, nosotros, vosotros, ellos/ellas. On les omet le plus souvent, la terminaison du verbe suffisant. USTED est la forme de politesse : elle se conjugue à la 3e personne.",
+    "exemple": "(Yo) hablo español. · ¿Usted habla francés? (vouvoiement) · ¿Vosotros habláis inglés? (pluriel familier, Espagne)"
+  },
+  {
+    "titre": "Les démonstratifs",
+    "niveau": "A2",
+    "type": "pronoms",
+    "explication": "Trois degrés de distance : este/esta (près de moi), ese/esa (près de toi), aquel/aquella (loin des deux).",
+    "exemple": "este libro (celui-ci) · esa mesa (celle-là, près de toi) · aquella casa (là-bas)"
+  },
+  {
+    "titre": "La construction de GUSTAR",
+    "niveau": "A1",
+    "type": "syntaxe",
+    "explication": "GUSTAR se construit à l'envers du français : ce qui plaît est le sujet. On utilise un pronom (me, te, le, nos, os, les) et le verbe s'accorde avec la chose aimée : gusta au singulier, gustan au pluriel. Même fonctionnement pour encantar et doler.",
+    "exemple": "Me gusta el chocolate. · Me gustan los libros. · A Ana le encanta bailar. · Me duele la cabeza."
+  },
+  {
+    "titre": "Les prépositions de lieu",
+    "niveau": "A1",
+    "type": "prepositions",
+    "explication": "La plupart des locutions de lieu se terminent par DE : debajo de, encima de, delante de, detrás de, al lado de, cerca de, lejos de, dentro de. Elles se combinent avec ESTAR ou HAY.",
+    "exemple": "El gato está debajo de la mesa. · Hay una farmacia al lado del colegio."
+  },
+  {
+    "titre": "POR ou PARA",
+    "niveau": "A2",
+    "type": "prepositions",
+    "explication": "PARA indique le but, le destinataire, la destination et l'échéance. POR indique la cause, le passage, la durée, le moment de la journée et le prix.",
+    "exemple": "Este regalo es para ti. · Gracias por tu ayuda. · Paseo por el parque. · Por la mañana estudio."
+  },
+  {
+    "titre": "Le A devant un complément de personne",
+    "niveau": "A2",
+    "type": "prepositions",
+    "explication": "Quand le complément d'objet direct est une personne déterminée, on met la préposition A devant. Elle ne se traduit pas en français.",
+    "exemple": "Veo a mi hermano. · Busco a la profesora. · Mais : Veo una casa (chose, pas de A)."
+  },
+  {
+    "titre": "L'alphabet et l'épellation",
+    "niveau": "A1",
+    "type": "orthographe",
+    "explication": "L'alphabet espagnol compte 27 lettres : les 26 lettres latines plus le Ñ. Le H est toujours muet, le J se prononce comme une jota raclée, le LL comme un « y », et le V se prononce comme le B.",
+    "exemple": "¿Cómo se escribe? — Se escribe con hache. · Casa : ce-a-ese-a."
+  },
+  {
+    "titre": "L'accent écrit",
+    "niveau": "A2",
+    "type": "orthographe",
+    "explication": "Mot terminé par une voyelle, -N ou -S : l'accent tonique tombe sur l'avant-dernière syllabe. Sinon, sur la dernière. Toute exception s'écrit avec un accent, qui sert aussi à distinguer deux mots identiques.",
+    "exemple": "casa, hablan (règle) · lápiz, jamón (exception accentuée) · el (le) vs él (lui), tu (ton) vs tú (toi), si (si) vs sí (oui)"
+  },
+  {
+    "titre": "La ponctuation des questions et des exclamations",
+    "niveau": "A1",
+    "type": "orthographe",
+    "explication": "Toute question s'ouvre par ¿ et se ferme par ?, toute exclamation par ¡ et !. Les mots interrogatifs portent toujours un accent écrit.",
+    "exemple": "¿Cómo te llamas? · ¡Qué bien! · ¿Dónde está la playa?"
+  },
+  {
+    "titre": "Faux-amis fréquents",
+    "niveau": "A2",
+    "type": "faux-amis",
+    "explication": "Des mots proches du français mais de sens différent, à mémoriser tels quels.",
+    "exemple": "el gato = le chat (pas le gâteau) · la carta = la lettre · el vaso = le verre · largo = long (pas large) · embarazada = enceinte · el suceso = l'événement"
+  },
+  {
+    "titre": "Décrire quelqu'un : SER, TENER, ESTAR, LLEVAR",
+    "niveau": "A2",
+    "type": "syntaxe",
+    "explication": "SER pour les caractéristiques permanentes, TENER pour les parties du corps et l'âge, ESTAR pour l'état du moment, LLEVAR pour les vêtements et les accessoires.",
+    "exemple": "Es alta y morena. · Tiene los ojos verdes. · Está enfadada. · Lleva un abrigo negro y gafas de sol."
+  }
+]

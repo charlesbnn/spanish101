@@ -1,0 +1,3705 @@
+[
+  {
+    "fr": "salut",
+    "es": "hola",
+    "theme": "salutations et présentations",
+    "niveau": "A1",
+    "type": "expression"
+  },
+  {
+    "fr": "bonjour (le matin)",
+    "es": "buenos días",
+    "theme": "salutations et présentations",
+    "niveau": "A1",
+    "type": "expression"
+  },
+  {
+    "fr": "bonjour (l'après-midi)",
+    "es": "buenas tardes",
+    "theme": "salutations et présentations",
+    "niveau": "A1",
+    "type": "expression"
+  },
+  {
+    "fr": "bonsoir, bonne nuit",
+    "es": "buenas noches",
+    "theme": "salutations et présentations",
+    "niveau": "A1",
+    "type": "expression"
+  },
+  {
+    "fr": "au revoir",
+    "es": "adiós",
+    "theme": "salutations et présentations",
+    "niveau": "A1",
+    "type": "expression"
+  },
+  {
+    "fr": "à bientôt",
+    "es": "hasta luego",
+    "theme": "salutations et présentations",
+    "niveau": "A1",
+    "type": "expression"
+  },
+  {
+    "fr": "à demain",
+    "es": "hasta mañana",
+    "theme": "salutations et présentations",
+    "niveau": "A1",
+    "type": "expression"
+  },
+  {
+    "fr": "s'il te plaît",
+    "es": "por favor",
+    "theme": "salutations et présentations",
+    "niveau": "A1",
+    "type": "expression"
+  },
+  {
+    "fr": "merci beaucoup",
+    "es": "muchas gracias",
+    "theme": "salutations et présentations",
+    "niveau": "A1",
+    "type": "expression"
+  },
+  {
+    "fr": "de rien",
+    "es": "de nada",
+    "theme": "salutations et présentations",
+    "niveau": "A1",
+    "type": "expression"
+  },
+  {
+    "fr": "pardon, excuse-moi",
+    "es": "perdón",
+    "theme": "salutations et présentations",
+    "niveau": "A1",
+    "type": "expression"
+  },
+  {
+    "fr": "comment tu t'appelles ?",
+    "es": "¿cómo te llamas?",
+    "theme": "salutations et présentations",
+    "niveau": "A1",
+    "type": "expression"
+  },
+  {
+    "fr": "je m'appelle...",
+    "es": "me llamo...",
+    "theme": "salutations et présentations",
+    "niveau": "A1",
+    "type": "expression"
+  },
+  {
+    "fr": "enchanté",
+    "es": "encantado",
+    "theme": "salutations et présentations",
+    "niveau": "A1",
+    "type": "expression"
+  },
+  {
+    "fr": "comment ça va ?",
+    "es": "¿qué tal?",
+    "theme": "salutations et présentations",
+    "niveau": "A1",
+    "type": "expression"
+  },
+  {
+    "fr": "d'où viens-tu ?",
+    "es": "¿de dónde eres?",
+    "theme": "salutations et présentations",
+    "niveau": "A1",
+    "type": "expression"
+  },
+  {
+    "fr": "quel âge as-tu ?",
+    "es": "¿cuántos años tienes?",
+    "theme": "salutations et présentations",
+    "niveau": "A1",
+    "type": "expression"
+  },
+  {
+    "fr": "j'ai vingt ans",
+    "es": "tengo veinte años",
+    "theme": "salutations et présentations",
+    "niveau": "A1",
+    "type": "expression"
+  },
+  {
+    "fr": "s'appeler",
+    "es": "llamarse",
+    "theme": "salutations et présentations",
+    "niveau": "A1",
+    "type": "verbe"
+  },
+  {
+    "fr": "être (identité, caractère)",
+    "es": "ser",
+    "theme": "salutations et présentations",
+    "niveau": "A1",
+    "type": "verbe"
+  },
+  {
+    "fr": "être (état, lieu)",
+    "es": "estar",
+    "theme": "salutations et présentations",
+    "niveau": "A1",
+    "type": "verbe"
+  },
+  {
+    "fr": "habiter, vivre",
+    "es": "vivir",
+    "theme": "salutations et présentations",
+    "niveau": "A1",
+    "type": "verbe"
+  },
+  {
+    "fr": "se présenter",
+    "es": "presentarse",
+    "theme": "salutations et présentations",
+    "niveau": "A2",
+    "type": "verbe"
+  },
+  {
+    "fr": "le prénom",
+    "es": "el nombre",
+    "theme": "salutations et présentations",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le nom de famille",
+    "es": "el apellido",
+    "theme": "salutations et présentations",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "l'âge",
+    "es": "la edad",
+    "theme": "salutations et présentations",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le pays",
+    "es": "el país",
+    "theme": "salutations et présentations",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "la ville",
+    "es": "la ciudad",
+    "theme": "salutations et présentations",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "l'adresse",
+    "es": "la dirección",
+    "theme": "salutations et présentations",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "la nationalité",
+    "es": "la nacionalidad",
+    "theme": "salutations et présentations",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "français",
+    "es": "francés",
+    "theme": "salutations et présentations",
+    "niveau": "A1",
+    "type": "adjectif"
+  },
+  {
+    "fr": "espagnol",
+    "es": "español",
+    "theme": "salutations et présentations",
+    "niveau": "A1",
+    "type": "adjectif"
+  },
+  {
+    "fr": "l'école",
+    "es": "el colegio",
+    "theme": "école",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "l'école, l'établissement",
+    "es": "la escuela",
+    "theme": "école",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "la classe, le cours",
+    "es": "la clase",
+    "theme": "école",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "la salle de classe",
+    "es": "el aula",
+    "theme": "école",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "le professeur",
+    "es": "el profesor",
+    "theme": "école",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "la professeure",
+    "es": "la profesora",
+    "theme": "école",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "l'élève",
+    "es": "el alumno",
+    "theme": "école",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le camarade",
+    "es": "el compañero",
+    "theme": "école",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "le livre",
+    "es": "el libro",
+    "theme": "école",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le cahier",
+    "es": "el cuaderno",
+    "theme": "école",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le crayon",
+    "es": "el lápiz",
+    "theme": "école",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le stylo",
+    "es": "el bolígrafo",
+    "theme": "école",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le sac à dos",
+    "es": "la mochila",
+    "theme": "école",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le tableau",
+    "es": "la pizarra",
+    "theme": "école",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "l'examen",
+    "es": "el examen",
+    "theme": "école",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "la question",
+    "es": "la pregunta",
+    "theme": "école",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "la réponse",
+    "es": "la respuesta",
+    "theme": "école",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "les devoirs",
+    "es": "los deberes",
+    "theme": "école",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "la récréation",
+    "es": "el recreo",
+    "theme": "école",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "la lettre (de l'alphabet)",
+    "es": "la letra",
+    "theme": "école",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le mot",
+    "es": "la palabra",
+    "theme": "école",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le nombre",
+    "es": "el número",
+    "theme": "école",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "étudier",
+    "es": "estudiar",
+    "theme": "école",
+    "niveau": "A1",
+    "type": "verbe"
+  },
+  {
+    "fr": "apprendre",
+    "es": "aprender",
+    "theme": "école",
+    "niveau": "A1",
+    "type": "verbe"
+  },
+  {
+    "fr": "enseigner, montrer",
+    "es": "enseñar",
+    "theme": "école",
+    "niveau": "A2",
+    "type": "verbe"
+  },
+  {
+    "fr": "lire",
+    "es": "leer",
+    "theme": "école",
+    "niveau": "A1",
+    "type": "verbe"
+  },
+  {
+    "fr": "écrire",
+    "es": "escribir",
+    "theme": "école",
+    "niveau": "A1",
+    "type": "verbe"
+  },
+  {
+    "fr": "écouter",
+    "es": "escuchar",
+    "theme": "école",
+    "niveau": "A1",
+    "type": "verbe"
+  },
+  {
+    "fr": "parler",
+    "es": "hablar",
+    "theme": "école",
+    "niveau": "A1",
+    "type": "verbe"
+  },
+  {
+    "fr": "demander",
+    "es": "preguntar",
+    "theme": "école",
+    "niveau": "A2",
+    "type": "verbe"
+  },
+  {
+    "fr": "répondre",
+    "es": "responder",
+    "theme": "école",
+    "niveau": "A2",
+    "type": "verbe"
+  },
+  {
+    "fr": "épeler",
+    "es": "deletrear",
+    "theme": "école",
+    "niveau": "A2",
+    "type": "verbe"
+  },
+  {
+    "fr": "répéter",
+    "es": "repetir",
+    "theme": "école",
+    "niveau": "A2",
+    "type": "verbe"
+  },
+  {
+    "fr": "comprendre",
+    "es": "entender",
+    "theme": "école",
+    "niveau": "A1",
+    "type": "verbe"
+  },
+  {
+    "fr": "savoir",
+    "es": "saber",
+    "theme": "école",
+    "niveau": "A1",
+    "type": "verbe"
+  },
+  {
+    "fr": "la famille",
+    "es": "la familia",
+    "theme": "famille",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le père",
+    "es": "el padre",
+    "theme": "famille",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "la mère",
+    "es": "la madre",
+    "theme": "famille",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "les parents",
+    "es": "los padres",
+    "theme": "famille",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le fils",
+    "es": "el hijo",
+    "theme": "famille",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "la fille (de quelqu'un)",
+    "es": "la hija",
+    "theme": "famille",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le frère",
+    "es": "el hermano",
+    "theme": "famille",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "la sœur",
+    "es": "la hermana",
+    "theme": "famille",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le grand-père",
+    "es": "el abuelo",
+    "theme": "famille",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "la grand-mère",
+    "es": "la abuela",
+    "theme": "famille",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "l'oncle",
+    "es": "el tío",
+    "theme": "famille",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "la tante",
+    "es": "la tía",
+    "theme": "famille",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le cousin",
+    "es": "el primo",
+    "theme": "famille",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le neveu",
+    "es": "el sobrino",
+    "theme": "famille",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "le petit-fils",
+    "es": "el nieto",
+    "theme": "famille",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "le mari",
+    "es": "el marido",
+    "theme": "famille",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "la femme (épouse)",
+    "es": "la esposa",
+    "theme": "famille",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le petit ami",
+    "es": "el novio",
+    "theme": "famille",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "le bébé",
+    "es": "el bebé",
+    "theme": "famille",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "l'enfant, le garçon",
+    "es": "el niño",
+    "theme": "famille",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "la petite fille",
+    "es": "la niña",
+    "theme": "famille",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "l'ami",
+    "es": "el amigo",
+    "theme": "famille",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le voisin",
+    "es": "el vecino",
+    "theme": "famille",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "l'aîné",
+    "es": "mayor",
+    "theme": "famille",
+    "niveau": "A2",
+    "type": "adjectif"
+  },
+  {
+    "fr": "le cadet, plus jeune",
+    "es": "menor",
+    "theme": "famille",
+    "niveau": "A2",
+    "type": "adjectif"
+  },
+  {
+    "fr": "marié",
+    "es": "casado",
+    "theme": "famille",
+    "niveau": "A2",
+    "type": "adjectif"
+  },
+  {
+    "fr": "célibataire",
+    "es": "soltero",
+    "theme": "famille",
+    "niveau": "A2",
+    "type": "adjectif"
+  },
+  {
+    "fr": "les magasins, les courses",
+    "es": "las compras",
+    "theme": "achats",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le magasin",
+    "es": "la tienda",
+    "theme": "achats",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le supermarché",
+    "es": "el supermercado",
+    "theme": "achats",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le marché",
+    "es": "el mercado",
+    "theme": "achats",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "la boulangerie",
+    "es": "la panadería",
+    "theme": "achats",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "la boucherie",
+    "es": "la carnicería",
+    "theme": "achats",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "la pharmacie",
+    "es": "la farmacia",
+    "theme": "achats",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "l'argent",
+    "es": "el dinero",
+    "theme": "achats",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le prix",
+    "es": "el precio",
+    "theme": "achats",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "la monnaie (rendue)",
+    "es": "el cambio",
+    "theme": "achats",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "l'euro",
+    "es": "el euro",
+    "theme": "achats",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "la liste",
+    "es": "la lista",
+    "theme": "achats",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le sac",
+    "es": "la bolsa",
+    "theme": "achats",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "la caisse",
+    "es": "la caja",
+    "theme": "achats",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "le client",
+    "es": "el cliente",
+    "theme": "achats",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "le kilo",
+    "es": "el kilo",
+    "theme": "achats",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "acheter",
+    "es": "comprar",
+    "theme": "achats",
+    "niveau": "A1",
+    "type": "verbe"
+  },
+  {
+    "fr": "vendre",
+    "es": "vender",
+    "theme": "achats",
+    "niveau": "A1",
+    "type": "verbe"
+  },
+  {
+    "fr": "payer",
+    "es": "pagar",
+    "theme": "achats",
+    "niveau": "A1",
+    "type": "verbe"
+  },
+  {
+    "fr": "coûter",
+    "es": "costar",
+    "theme": "achats",
+    "niveau": "A1",
+    "type": "verbe"
+  },
+  {
+    "fr": "avoir besoin de",
+    "es": "necesitar",
+    "theme": "achats",
+    "niveau": "A1",
+    "type": "verbe"
+  },
+  {
+    "fr": "chercher",
+    "es": "buscar",
+    "theme": "achats",
+    "niveau": "A1",
+    "type": "verbe"
+  },
+  {
+    "fr": "trouver",
+    "es": "encontrar",
+    "theme": "achats",
+    "niveau": "A2",
+    "type": "verbe"
+  },
+  {
+    "fr": "combien ça coûte ?",
+    "es": "¿cuánto cuesta?",
+    "theme": "achats",
+    "niveau": "A1",
+    "type": "expression"
+  },
+  {
+    "fr": "cher",
+    "es": "caro",
+    "theme": "achats",
+    "niveau": "A1",
+    "type": "adjectif"
+  },
+  {
+    "fr": "bon marché",
+    "es": "barato",
+    "theme": "achats",
+    "niveau": "A1",
+    "type": "adjectif"
+  },
+  {
+    "fr": "la nourriture",
+    "es": "la comida",
+    "theme": "alimentation",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le pain",
+    "es": "el pan",
+    "theme": "alimentation",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le lait",
+    "es": "la leche",
+    "theme": "alimentation",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "l'eau",
+    "es": "el agua",
+    "theme": "alimentation",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le fromage",
+    "es": "el queso",
+    "theme": "alimentation",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "l'œuf",
+    "es": "el huevo",
+    "theme": "alimentation",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "la viande",
+    "es": "la carne",
+    "theme": "alimentation",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le poisson",
+    "es": "el pescado",
+    "theme": "alimentation",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le poulet",
+    "es": "el pollo",
+    "theme": "alimentation",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le jambon",
+    "es": "el jamón",
+    "theme": "alimentation",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le riz",
+    "es": "el arroz",
+    "theme": "alimentation",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "les pâtes",
+    "es": "la pasta",
+    "theme": "alimentation",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le fruit",
+    "es": "la fruta",
+    "theme": "alimentation",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "la pomme",
+    "es": "la manzana",
+    "theme": "alimentation",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "l'orange",
+    "es": "la naranja",
+    "theme": "alimentation",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "la banane",
+    "es": "el plátano",
+    "theme": "alimentation",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "la fraise",
+    "es": "la fresa",
+    "theme": "alimentation",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "le légume",
+    "es": "la verdura",
+    "theme": "alimentation",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "la tomate",
+    "es": "el tomate",
+    "theme": "alimentation",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "la pomme de terre",
+    "es": "la patata",
+    "theme": "alimentation",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "l'oignon",
+    "es": "la cebolla",
+    "theme": "alimentation",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "la salade",
+    "es": "la ensalada",
+    "theme": "alimentation",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "l'huile",
+    "es": "el aceite",
+    "theme": "alimentation",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "le sel",
+    "es": "la sal",
+    "theme": "alimentation",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le sucre",
+    "es": "el azúcar",
+    "theme": "alimentation",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le café",
+    "es": "el café",
+    "theme": "alimentation",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le thé",
+    "es": "el té",
+    "theme": "alimentation",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le jus",
+    "es": "el zumo",
+    "theme": "alimentation",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le vin",
+    "es": "el vino",
+    "theme": "alimentation",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le petit-déjeuner",
+    "es": "el desayuno",
+    "theme": "alimentation",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le déjeuner",
+    "es": "el almuerzo",
+    "theme": "alimentation",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "le dîner",
+    "es": "la cena",
+    "theme": "alimentation",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le restaurant",
+    "es": "el restaurante",
+    "theme": "alimentation",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "la carte, le menu",
+    "es": "la carta",
+    "theme": "alimentation",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "manger",
+    "es": "comer",
+    "theme": "alimentation",
+    "niveau": "A1",
+    "type": "verbe"
+  },
+  {
+    "fr": "boire",
+    "es": "beber",
+    "theme": "alimentation",
+    "niveau": "A1",
+    "type": "verbe"
+  },
+  {
+    "fr": "cuisiner",
+    "es": "cocinar",
+    "theme": "alimentation",
+    "niveau": "A1",
+    "type": "verbe"
+  },
+  {
+    "fr": "prendre le petit-déjeuner",
+    "es": "desayunar",
+    "theme": "alimentation",
+    "niveau": "A2",
+    "type": "verbe"
+  },
+  {
+    "fr": "dîner",
+    "es": "cenar",
+    "theme": "alimentation",
+    "niveau": "A2",
+    "type": "verbe"
+  },
+  {
+    "fr": "goûter, essayer",
+    "es": "probar",
+    "theme": "alimentation",
+    "niveau": "A2",
+    "type": "verbe"
+  },
+  {
+    "fr": "avoir faim",
+    "es": "tener hambre",
+    "theme": "alimentation",
+    "niveau": "A1",
+    "type": "expression"
+  },
+  {
+    "fr": "avoir soif",
+    "es": "tener sed",
+    "theme": "alimentation",
+    "niveau": "A1",
+    "type": "expression"
+  },
+  {
+    "fr": "délicieux",
+    "es": "delicioso",
+    "theme": "alimentation",
+    "niveau": "A2",
+    "type": "adjectif"
+  },
+  {
+    "fr": "sucré",
+    "es": "dulce",
+    "theme": "alimentation",
+    "niveau": "A2",
+    "type": "adjectif"
+  },
+  {
+    "fr": "amer",
+    "es": "amargo",
+    "theme": "alimentation",
+    "niveau": "A2",
+    "type": "adjectif"
+  },
+  {
+    "fr": "salé",
+    "es": "salado",
+    "theme": "alimentation",
+    "niveau": "A2",
+    "type": "adjectif"
+  },
+  {
+    "fr": "chaud (température)",
+    "es": "caliente",
+    "theme": "alimentation",
+    "niveau": "A1",
+    "type": "adjectif"
+  },
+  {
+    "fr": "froid",
+    "es": "frío",
+    "theme": "alimentation",
+    "niveau": "A1",
+    "type": "adjectif"
+  },
+  {
+    "fr": "la plage",
+    "es": "la playa",
+    "theme": "plage et vacances",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "la mer",
+    "es": "el mar",
+    "theme": "plage et vacances",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le sable",
+    "es": "la arena",
+    "theme": "plage et vacances",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "le soleil",
+    "es": "el sol",
+    "theme": "plage et vacances",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "la vague",
+    "es": "la ola",
+    "theme": "plage et vacances",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "la serviette",
+    "es": "la toalla",
+    "theme": "plage et vacances",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "le maillot de bain",
+    "es": "el bañador",
+    "theme": "plage et vacances",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "les lunettes de soleil",
+    "es": "las gafas de sol",
+    "theme": "plage et vacances",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "la crème solaire",
+    "es": "la crema solar",
+    "theme": "plage et vacances",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "le parasol",
+    "es": "la sombrilla",
+    "theme": "plage et vacances",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "les vacances",
+    "es": "las vacaciones",
+    "theme": "plage et vacances",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "l'été",
+    "es": "el verano",
+    "theme": "plage et vacances",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "l'hiver",
+    "es": "el invierno",
+    "theme": "plage et vacances",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le printemps",
+    "es": "la primavera",
+    "theme": "plage et vacances",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "l'automne",
+    "es": "el otoño",
+    "theme": "plage et vacances",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "l'hôtel",
+    "es": "el hotel",
+    "theme": "plage et vacances",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le voyage",
+    "es": "el viaje",
+    "theme": "plage et vacances",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "nager",
+    "es": "nadar",
+    "theme": "plage et vacances",
+    "niveau": "A1",
+    "type": "verbe"
+  },
+  {
+    "fr": "se baigner",
+    "es": "bañarse",
+    "theme": "plage et vacances",
+    "niveau": "A2",
+    "type": "verbe"
+  },
+  {
+    "fr": "prendre le soleil",
+    "es": "tomar el sol",
+    "theme": "plage et vacances",
+    "niveau": "A2",
+    "type": "expression"
+  },
+  {
+    "fr": "se reposer",
+    "es": "descansar",
+    "theme": "plage et vacances",
+    "niveau": "A2",
+    "type": "verbe"
+  },
+  {
+    "fr": "voyager",
+    "es": "viajar",
+    "theme": "plage et vacances",
+    "niveau": "A1",
+    "type": "verbe"
+  },
+  {
+    "fr": "il fait chaud",
+    "es": "hace calor",
+    "theme": "plage et vacances",
+    "niveau": "A1",
+    "type": "expression"
+  },
+  {
+    "fr": "il fait froid",
+    "es": "hace frío",
+    "theme": "plage et vacances",
+    "niveau": "A1",
+    "type": "expression"
+  },
+  {
+    "fr": "il fait beau",
+    "es": "hace buen tiempo",
+    "theme": "plage et vacances",
+    "niveau": "A2",
+    "type": "expression"
+  },
+  {
+    "fr": "il pleut",
+    "es": "llueve",
+    "theme": "plage et vacances",
+    "niveau": "A2",
+    "type": "expression"
+  },
+  {
+    "fr": "la campagne",
+    "es": "el campo",
+    "theme": "nature et loisirs",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "la montagne",
+    "es": "la montaña",
+    "theme": "nature et loisirs",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "la rivière",
+    "es": "el río",
+    "theme": "nature et loisirs",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le lac",
+    "es": "el lago",
+    "theme": "nature et loisirs",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "la forêt",
+    "es": "el bosque",
+    "theme": "nature et loisirs",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "l'arbre",
+    "es": "el árbol",
+    "theme": "nature et loisirs",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "la fleur",
+    "es": "la flor",
+    "theme": "nature et loisirs",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "l'herbe",
+    "es": "la hierba",
+    "theme": "nature et loisirs",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "le ciel",
+    "es": "el cielo",
+    "theme": "nature et loisirs",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le chemin",
+    "es": "el camino",
+    "theme": "nature et loisirs",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "le parc",
+    "es": "el parque",
+    "theme": "nature et loisirs",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le jeu",
+    "es": "el juego",
+    "theme": "nature et loisirs",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "la promenade",
+    "es": "el paseo",
+    "theme": "nature et loisirs",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "le temps libre",
+    "es": "el tiempo libre",
+    "theme": "nature et loisirs",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "la musique",
+    "es": "la música",
+    "theme": "nature et loisirs",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le film",
+    "es": "la película",
+    "theme": "nature et loisirs",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le sport",
+    "es": "el deporte",
+    "theme": "nature et loisirs",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le football",
+    "es": "el fútbol",
+    "theme": "nature et loisirs",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "l'aventure",
+    "es": "la aventura",
+    "theme": "nature et loisirs",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "jouer",
+    "es": "jugar",
+    "theme": "nature et loisirs",
+    "niveau": "A1",
+    "type": "verbe"
+  },
+  {
+    "fr": "se promener",
+    "es": "pasear",
+    "theme": "nature et loisirs",
+    "niveau": "A2",
+    "type": "verbe"
+  },
+  {
+    "fr": "courir",
+    "es": "correr",
+    "theme": "nature et loisirs",
+    "niveau": "A1",
+    "type": "verbe"
+  },
+  {
+    "fr": "monter, grimper",
+    "es": "subir",
+    "theme": "nature et loisirs",
+    "niveau": "A2",
+    "type": "verbe"
+  },
+  {
+    "fr": "descendre",
+    "es": "bajar",
+    "theme": "nature et loisirs",
+    "niveau": "A2",
+    "type": "verbe"
+  },
+  {
+    "fr": "chanter",
+    "es": "cantar",
+    "theme": "nature et loisirs",
+    "niveau": "A1",
+    "type": "verbe"
+  },
+  {
+    "fr": "danser",
+    "es": "bailar",
+    "theme": "nature et loisirs",
+    "niveau": "A1",
+    "type": "verbe"
+  },
+  {
+    "fr": "aimer, plaire",
+    "es": "gustar",
+    "theme": "goûts et opinions",
+    "niveau": "A1",
+    "type": "verbe"
+  },
+  {
+    "fr": "adorer, enchanter",
+    "es": "encantar",
+    "theme": "goûts et opinions",
+    "niveau": "A2",
+    "type": "verbe"
+  },
+  {
+    "fr": "préférer",
+    "es": "preferir",
+    "theme": "goûts et opinions",
+    "niveau": "A2",
+    "type": "verbe"
+  },
+  {
+    "fr": "détester",
+    "es": "odiar",
+    "theme": "goûts et opinions",
+    "niveau": "A2",
+    "type": "verbe"
+  },
+  {
+    "fr": "penser, croire",
+    "es": "pensar",
+    "theme": "goûts et opinions",
+    "niveau": "A2",
+    "type": "verbe"
+  },
+  {
+    "fr": "croire",
+    "es": "creer",
+    "theme": "goûts et opinions",
+    "niveau": "A2",
+    "type": "verbe"
+  },
+  {
+    "fr": "j'aime beaucoup",
+    "es": "me gusta mucho",
+    "theme": "goûts et opinions",
+    "niveau": "A1",
+    "type": "expression"
+  },
+  {
+    "fr": "je n'aime pas",
+    "es": "no me gusta",
+    "theme": "goûts et opinions",
+    "niveau": "A1",
+    "type": "expression"
+  },
+  {
+    "fr": "moi aussi",
+    "es": "a mí también",
+    "theme": "goûts et opinions",
+    "niveau": "A2",
+    "type": "expression"
+  },
+  {
+    "fr": "moi non plus",
+    "es": "a mí tampoco",
+    "theme": "goûts et opinions",
+    "niveau": "A2",
+    "type": "expression"
+  },
+  {
+    "fr": "à mon avis",
+    "es": "en mi opinión",
+    "theme": "goûts et opinions",
+    "niveau": "A2",
+    "type": "expression"
+  },
+  {
+    "fr": "amusant, drôle",
+    "es": "divertido",
+    "theme": "goûts et opinions",
+    "niveau": "A2",
+    "type": "adjectif"
+  },
+  {
+    "fr": "ennuyeux",
+    "es": "aburrido",
+    "theme": "goûts et opinions",
+    "niveau": "A2",
+    "type": "adjectif"
+  },
+  {
+    "fr": "intéressant",
+    "es": "interesante",
+    "theme": "goûts et opinions",
+    "niveau": "A2",
+    "type": "adjectif"
+  },
+  {
+    "fr": "la maison",
+    "es": "la casa",
+    "theme": "maison et jardin",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "l'appartement",
+    "es": "el piso",
+    "theme": "maison et jardin",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "la pièce, la chambre",
+    "es": "la habitación",
+    "theme": "maison et jardin",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le salon",
+    "es": "el salón",
+    "theme": "maison et jardin",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "la cuisine",
+    "es": "la cocina",
+    "theme": "maison et jardin",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "la salle de bains",
+    "es": "el cuarto de baño",
+    "theme": "maison et jardin",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le jardin",
+    "es": "el jardín",
+    "theme": "maison et jardin",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "la porte",
+    "es": "la puerta",
+    "theme": "maison et jardin",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "la fenêtre",
+    "es": "la ventana",
+    "theme": "maison et jardin",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le mur",
+    "es": "la pared",
+    "theme": "maison et jardin",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "le sol",
+    "es": "el suelo",
+    "theme": "maison et jardin",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "l'escalier",
+    "es": "la escalera",
+    "theme": "maison et jardin",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "la clé",
+    "es": "la llave",
+    "theme": "maison et jardin",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le meuble",
+    "es": "el mueble",
+    "theme": "maison et jardin",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "la table",
+    "es": "la mesa",
+    "theme": "maison et jardin",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "la chaise",
+    "es": "la silla",
+    "theme": "maison et jardin",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le canapé",
+    "es": "el sofá",
+    "theme": "maison et jardin",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le lit",
+    "es": "la cama",
+    "theme": "maison et jardin",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "l'armoire",
+    "es": "el armario",
+    "theme": "maison et jardin",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "l'étagère",
+    "es": "la estantería",
+    "theme": "maison et jardin",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "le tiroir",
+    "es": "el cajón",
+    "theme": "maison et jardin",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "le réfrigérateur",
+    "es": "la nevera",
+    "theme": "maison et jardin",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "la lampe",
+    "es": "la lámpara",
+    "theme": "maison et jardin",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le miroir",
+    "es": "el espejo",
+    "theme": "maison et jardin",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "le tapis",
+    "es": "la alfombra",
+    "theme": "maison et jardin",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "la télévision",
+    "es": "la televisión",
+    "theme": "maison et jardin",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "ouvrir",
+    "es": "abrir",
+    "theme": "maison et jardin",
+    "niveau": "A1",
+    "type": "verbe"
+  },
+  {
+    "fr": "fermer",
+    "es": "cerrar",
+    "theme": "maison et jardin",
+    "niveau": "A1",
+    "type": "verbe"
+  },
+  {
+    "fr": "nettoyer",
+    "es": "limpiar",
+    "theme": "maison et jardin",
+    "niveau": "A2",
+    "type": "verbe"
+  },
+  {
+    "fr": "ranger, mettre en ordre",
+    "es": "ordenar",
+    "theme": "maison et jardin",
+    "niveau": "A2",
+    "type": "verbe"
+  },
+  {
+    "fr": "mettre, poser",
+    "es": "poner",
+    "theme": "maison et jardin",
+    "niveau": "A1",
+    "type": "verbe"
+  },
+  {
+    "fr": "entrer",
+    "es": "entrar",
+    "theme": "maison et jardin",
+    "niveau": "A1",
+    "type": "verbe"
+  },
+  {
+    "fr": "sortir",
+    "es": "salir",
+    "theme": "maison et jardin",
+    "niveau": "A1",
+    "type": "verbe"
+  },
+  {
+    "fr": "sur",
+    "es": "sobre",
+    "theme": "localisation",
+    "niveau": "A1",
+    "type": "preposition"
+  },
+  {
+    "fr": "sous",
+    "es": "debajo de",
+    "theme": "localisation",
+    "niveau": "A1",
+    "type": "preposition"
+  },
+  {
+    "fr": "dans",
+    "es": "en",
+    "theme": "localisation",
+    "niveau": "A1",
+    "type": "preposition"
+  },
+  {
+    "fr": "à l'intérieur de",
+    "es": "dentro de",
+    "theme": "localisation",
+    "niveau": "A1",
+    "type": "preposition"
+  },
+  {
+    "fr": "à l'extérieur de",
+    "es": "fuera de",
+    "theme": "localisation",
+    "niveau": "A2",
+    "type": "preposition"
+  },
+  {
+    "fr": "devant",
+    "es": "delante de",
+    "theme": "localisation",
+    "niveau": "A1",
+    "type": "preposition"
+  },
+  {
+    "fr": "derrière",
+    "es": "detrás de",
+    "theme": "localisation",
+    "niveau": "A1",
+    "type": "preposition"
+  },
+  {
+    "fr": "à côté de",
+    "es": "al lado de",
+    "theme": "localisation",
+    "niveau": "A1",
+    "type": "preposition"
+  },
+  {
+    "fr": "près de",
+    "es": "cerca de",
+    "theme": "localisation",
+    "niveau": "A1",
+    "type": "preposition"
+  },
+  {
+    "fr": "loin de",
+    "es": "lejos de",
+    "theme": "localisation",
+    "niveau": "A1",
+    "type": "preposition"
+  },
+  {
+    "fr": "entre",
+    "es": "entre",
+    "theme": "localisation",
+    "niveau": "A1",
+    "type": "preposition"
+  },
+  {
+    "fr": "au-dessus de",
+    "es": "encima de",
+    "theme": "localisation",
+    "niveau": "A2",
+    "type": "preposition"
+  },
+  {
+    "fr": "en face de",
+    "es": "enfrente de",
+    "theme": "localisation",
+    "niveau": "A2",
+    "type": "preposition"
+  },
+  {
+    "fr": "à droite",
+    "es": "a la derecha",
+    "theme": "localisation",
+    "niveau": "A1",
+    "type": "expression"
+  },
+  {
+    "fr": "à gauche",
+    "es": "a la izquierda",
+    "theme": "localisation",
+    "niveau": "A1",
+    "type": "expression"
+  },
+  {
+    "fr": "tout droit",
+    "es": "todo recto",
+    "theme": "localisation",
+    "niveau": "A2",
+    "type": "expression"
+  },
+  {
+    "fr": "où est... ?",
+    "es": "¿dónde está...?",
+    "theme": "localisation",
+    "niveau": "A1",
+    "type": "expression"
+  },
+  {
+    "fr": "il y a",
+    "es": "hay",
+    "theme": "localisation",
+    "niveau": "A1",
+    "type": "expression"
+  },
+  {
+    "fr": "au fond de",
+    "es": "al fondo de",
+    "theme": "localisation",
+    "niveau": "A2",
+    "type": "preposition"
+  },
+  {
+    "fr": "le corps",
+    "es": "el cuerpo",
+    "theme": "corps et santé",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "la tête",
+    "es": "la cabeza",
+    "theme": "corps et santé",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le visage",
+    "es": "la cara",
+    "theme": "corps et santé",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "l'œil",
+    "es": "el ojo",
+    "theme": "corps et santé",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le nez",
+    "es": "la nariz",
+    "theme": "corps et santé",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "la bouche",
+    "es": "la boca",
+    "theme": "corps et santé",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "l'oreille",
+    "es": "la oreja",
+    "theme": "corps et santé",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "la dent",
+    "es": "el diente",
+    "theme": "corps et santé",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "les cheveux",
+    "es": "el pelo",
+    "theme": "corps et santé",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le cou",
+    "es": "el cuello",
+    "theme": "corps et santé",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "l'épaule",
+    "es": "el hombro",
+    "theme": "corps et santé",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "le bras",
+    "es": "el brazo",
+    "theme": "corps et santé",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "la main",
+    "es": "la mano",
+    "theme": "corps et santé",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le doigt",
+    "es": "el dedo",
+    "theme": "corps et santé",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "la jambe",
+    "es": "la pierna",
+    "theme": "corps et santé",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le pied",
+    "es": "el pie",
+    "theme": "corps et santé",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le dos",
+    "es": "la espalda",
+    "theme": "corps et santé",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "le ventre",
+    "es": "la barriga",
+    "theme": "corps et santé",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "l'estomac",
+    "es": "el estómago",
+    "theme": "corps et santé",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "le cœur",
+    "es": "el corazón",
+    "theme": "corps et santé",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "la gorge",
+    "es": "la garganta",
+    "theme": "corps et santé",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "la douleur",
+    "es": "el dolor",
+    "theme": "corps et santé",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "la maladie",
+    "es": "la enfermedad",
+    "theme": "corps et santé",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "la fièvre",
+    "es": "la fiebre",
+    "theme": "corps et santé",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "le rhume",
+    "es": "el resfriado",
+    "theme": "corps et santé",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "la toux",
+    "es": "la tos",
+    "theme": "corps et santé",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "le médecin",
+    "es": "el médico",
+    "theme": "corps et santé",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "l'hôpital",
+    "es": "el hospital",
+    "theme": "corps et santé",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le médicament",
+    "es": "la medicina",
+    "theme": "corps et santé",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "le rendez-vous",
+    "es": "la cita",
+    "theme": "corps et santé",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "avoir mal à la tête",
+    "es": "tener dolor de cabeza",
+    "theme": "corps et santé",
+    "niveau": "A1",
+    "type": "expression"
+  },
+  {
+    "fr": "j'ai mal ici",
+    "es": "me duele aquí",
+    "theme": "corps et santé",
+    "niveau": "A2",
+    "type": "expression"
+  },
+  {
+    "fr": "être malade",
+    "es": "estar enfermo",
+    "theme": "corps et santé",
+    "niveau": "A1",
+    "type": "expression"
+  },
+  {
+    "fr": "se sentir bien",
+    "es": "encontrarse bien",
+    "theme": "corps et santé",
+    "niveau": "A2",
+    "type": "expression"
+  },
+  {
+    "fr": "faire mal",
+    "es": "doler",
+    "theme": "corps et santé",
+    "niveau": "A2",
+    "type": "verbe"
+  },
+  {
+    "fr": "se sentir",
+    "es": "sentirse",
+    "theme": "corps et santé",
+    "niveau": "A2",
+    "type": "verbe"
+  },
+  {
+    "fr": "malade",
+    "es": "enfermo",
+    "theme": "corps et santé",
+    "niveau": "A1",
+    "type": "adjectif"
+  },
+  {
+    "fr": "fatigué",
+    "es": "cansado",
+    "theme": "corps et santé",
+    "niveau": "A1",
+    "type": "adjectif"
+  },
+  {
+    "fr": "en bonne santé",
+    "es": "sano",
+    "theme": "corps et santé",
+    "niveau": "A2",
+    "type": "adjectif"
+  },
+  {
+    "fr": "le vêtement",
+    "es": "la ropa",
+    "theme": "vêtements et apparence",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "la chemise",
+    "es": "la camisa",
+    "theme": "vêtements et apparence",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le tee-shirt",
+    "es": "la camiseta",
+    "theme": "vêtements et apparence",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le pantalon",
+    "es": "el pantalón",
+    "theme": "vêtements et apparence",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "la jupe",
+    "es": "la falda",
+    "theme": "vêtements et apparence",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "la robe",
+    "es": "el vestido",
+    "theme": "vêtements et apparence",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le manteau",
+    "es": "el abrigo",
+    "theme": "vêtements et apparence",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "la veste",
+    "es": "la chaqueta",
+    "theme": "vêtements et apparence",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le pull",
+    "es": "el jersey",
+    "theme": "vêtements et apparence",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "les chaussures",
+    "es": "los zapatos",
+    "theme": "vêtements et apparence",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "les chaussettes",
+    "es": "los calcetines",
+    "theme": "vêtements et apparence",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "le chapeau",
+    "es": "el sombrero",
+    "theme": "vêtements et apparence",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "les lunettes",
+    "es": "las gafas",
+    "theme": "vêtements et apparence",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "la barbe",
+    "es": "la barba",
+    "theme": "vêtements et apparence",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "porter (un vêtement)",
+    "es": "llevar",
+    "theme": "vêtements et apparence",
+    "niveau": "A1",
+    "type": "verbe"
+  },
+  {
+    "fr": "s'habiller",
+    "es": "vestirse",
+    "theme": "vêtements et apparence",
+    "niveau": "A2",
+    "type": "verbe"
+  },
+  {
+    "fr": "mettre (un vêtement)",
+    "es": "ponerse",
+    "theme": "vêtements et apparence",
+    "niveau": "A2",
+    "type": "verbe"
+  },
+  {
+    "fr": "grand (taille)",
+    "es": "alto",
+    "theme": "vêtements et apparence",
+    "niveau": "A1",
+    "type": "adjectif"
+  },
+  {
+    "fr": "petit (taille)",
+    "es": "bajo",
+    "theme": "vêtements et apparence",
+    "niveau": "A1",
+    "type": "adjectif"
+  },
+  {
+    "fr": "mince",
+    "es": "delgado",
+    "theme": "vêtements et apparence",
+    "niveau": "A2",
+    "type": "adjectif"
+  },
+  {
+    "fr": "gros",
+    "es": "gordo",
+    "theme": "vêtements et apparence",
+    "niveau": "A2",
+    "type": "adjectif"
+  },
+  {
+    "fr": "jeune",
+    "es": "joven",
+    "theme": "vêtements et apparence",
+    "niveau": "A1",
+    "type": "adjectif"
+  },
+  {
+    "fr": "vieux",
+    "es": "viejo",
+    "theme": "vêtements et apparence",
+    "niveau": "A1",
+    "type": "adjectif"
+  },
+  {
+    "fr": "beau, joli",
+    "es": "guapo",
+    "theme": "vêtements et apparence",
+    "niveau": "A1",
+    "type": "adjectif"
+  },
+  {
+    "fr": "blond",
+    "es": "rubio",
+    "theme": "vêtements et apparence",
+    "niveau": "A2",
+    "type": "adjectif"
+  },
+  {
+    "fr": "brun",
+    "es": "moreno",
+    "theme": "vêtements et apparence",
+    "niveau": "A2",
+    "type": "adjectif"
+  },
+  {
+    "fr": "blanc",
+    "es": "blanco",
+    "theme": "couleurs",
+    "niveau": "A1",
+    "type": "adjectif"
+  },
+  {
+    "fr": "noir",
+    "es": "negro",
+    "theme": "couleurs",
+    "niveau": "A1",
+    "type": "adjectif"
+  },
+  {
+    "fr": "rouge",
+    "es": "rojo",
+    "theme": "couleurs",
+    "niveau": "A1",
+    "type": "adjectif"
+  },
+  {
+    "fr": "bleu",
+    "es": "azul",
+    "theme": "couleurs",
+    "niveau": "A1",
+    "type": "adjectif"
+  },
+  {
+    "fr": "vert",
+    "es": "verde",
+    "theme": "couleurs",
+    "niveau": "A1",
+    "type": "adjectif"
+  },
+  {
+    "fr": "jaune",
+    "es": "amarillo",
+    "theme": "couleurs",
+    "niveau": "A1",
+    "type": "adjectif"
+  },
+  {
+    "fr": "gris",
+    "es": "gris",
+    "theme": "couleurs",
+    "niveau": "A1",
+    "type": "adjectif"
+  },
+  {
+    "fr": "marron",
+    "es": "marrón",
+    "theme": "couleurs",
+    "niveau": "A1",
+    "type": "adjectif"
+  },
+  {
+    "fr": "rose",
+    "es": "rosa",
+    "theme": "couleurs",
+    "niveau": "A2",
+    "type": "adjectif"
+  },
+  {
+    "fr": "violet",
+    "es": "morado",
+    "theme": "couleurs",
+    "niveau": "A2",
+    "type": "adjectif"
+  },
+  {
+    "fr": "l'animal",
+    "es": "el animal",
+    "theme": "animaux et ferme",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le chien",
+    "es": "el perro",
+    "theme": "animaux et ferme",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le chat",
+    "es": "el gato",
+    "theme": "animaux et ferme",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le cheval",
+    "es": "el caballo",
+    "theme": "animaux et ferme",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "la vache",
+    "es": "la vaca",
+    "theme": "animaux et ferme",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le cochon",
+    "es": "el cerdo",
+    "theme": "animaux et ferme",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "la poule",
+    "es": "la gallina",
+    "theme": "animaux et ferme",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "le mouton",
+    "es": "la oveja",
+    "theme": "animaux et ferme",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "la chèvre",
+    "es": "la cabra",
+    "theme": "animaux et ferme",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "le lapin",
+    "es": "el conejo",
+    "theme": "animaux et ferme",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "l'oiseau",
+    "es": "el pájaro",
+    "theme": "animaux et ferme",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "la souris",
+    "es": "el ratón",
+    "theme": "animaux et ferme",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "l'âne",
+    "es": "el burro",
+    "theme": "animaux et ferme",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "le canard",
+    "es": "el pato",
+    "theme": "animaux et ferme",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "la ferme",
+    "es": "la granja",
+    "theme": "animaux et ferme",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "le fermier",
+    "es": "el granjero",
+    "theme": "animaux et ferme",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "l'étable",
+    "es": "el establo",
+    "theme": "animaux et ferme",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "le tracteur",
+    "es": "el tractor",
+    "theme": "animaux et ferme",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "la queue",
+    "es": "la cola",
+    "theme": "animaux et ferme",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "nourrir, donner à manger",
+    "es": "dar de comer",
+    "theme": "animaux et ferme",
+    "niveau": "A2",
+    "type": "expression"
+  },
+  {
+    "fr": "voler (dans les airs)",
+    "es": "volar",
+    "theme": "animaux et ferme",
+    "niveau": "A2",
+    "type": "verbe"
+  },
+  {
+    "fr": "le métier, la profession",
+    "es": "la profesión",
+    "theme": "professions",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le travail",
+    "es": "el trabajo",
+    "theme": "professions",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le boulanger",
+    "es": "el panadero",
+    "theme": "professions",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "le boucher",
+    "es": "el carnicero",
+    "theme": "professions",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "le serveur",
+    "es": "el camarero",
+    "theme": "professions",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le vendeur",
+    "es": "el dependiente",
+    "theme": "professions",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "l'infirmier",
+    "es": "el enfermero",
+    "theme": "professions",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "le pompier",
+    "es": "el bombero",
+    "theme": "professions",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "le policier",
+    "es": "el policía",
+    "theme": "professions",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le facteur",
+    "es": "el cartero",
+    "theme": "professions",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "le chauffeur",
+    "es": "el conductor",
+    "theme": "professions",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "le cuisinier",
+    "es": "el cocinero",
+    "theme": "professions",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "le coiffeur",
+    "es": "el peluquero",
+    "theme": "professions",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "l'ingénieur",
+    "es": "el ingeniero",
+    "theme": "professions",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "l'avocat (métier)",
+    "es": "el abogado",
+    "theme": "professions",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "l'écrivain",
+    "es": "el escritor",
+    "theme": "professions",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "le quartier",
+    "es": "el barrio",
+    "theme": "professions",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "le bureau",
+    "es": "la oficina",
+    "theme": "professions",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "l'entreprise",
+    "es": "la empresa",
+    "theme": "professions",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "travailler",
+    "es": "trabajar",
+    "theme": "professions",
+    "niveau": "A1",
+    "type": "verbe"
+  },
+  {
+    "fr": "gagner (de l'argent)",
+    "es": "ganar",
+    "theme": "professions",
+    "niveau": "A2",
+    "type": "verbe"
+  },
+  {
+    "fr": "que fais-tu dans la vie ?",
+    "es": "¿a qué te dedicas?",
+    "theme": "professions",
+    "niveau": "A2",
+    "type": "expression"
+  },
+  {
+    "fr": "je suis professeur",
+    "es": "soy profesor",
+    "theme": "professions",
+    "niveau": "A1",
+    "type": "expression"
+  },
+  {
+    "fr": "plus... que",
+    "es": "más... que",
+    "theme": "professions",
+    "niveau": "A2",
+    "type": "expression"
+  },
+  {
+    "fr": "moins... que",
+    "es": "menos... que",
+    "theme": "professions",
+    "niveau": "A2",
+    "type": "expression"
+  },
+  {
+    "fr": "aussi... que",
+    "es": "tan... como",
+    "theme": "professions",
+    "niveau": "A2",
+    "type": "expression"
+  },
+  {
+    "fr": "meilleur",
+    "es": "mejor",
+    "theme": "professions",
+    "niveau": "A2",
+    "type": "adjectif"
+  },
+  {
+    "fr": "pire",
+    "es": "peor",
+    "theme": "professions",
+    "niveau": "A2",
+    "type": "adjectif"
+  },
+  {
+    "fr": "le jour",
+    "es": "el día",
+    "theme": "temps et fréquence",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "la semaine",
+    "es": "la semana",
+    "theme": "temps et fréquence",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le mois",
+    "es": "el mes",
+    "theme": "temps et fréquence",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "l'année",
+    "es": "el año",
+    "theme": "temps et fréquence",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le matin",
+    "es": "la mañana",
+    "theme": "temps et fréquence",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "l'après-midi",
+    "es": "la tarde",
+    "theme": "temps et fréquence",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "la nuit",
+    "es": "la noche",
+    "theme": "temps et fréquence",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "l'heure",
+    "es": "la hora",
+    "theme": "temps et fréquence",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "la minute",
+    "es": "el minuto",
+    "theme": "temps et fréquence",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "le week-end",
+    "es": "el fin de semana",
+    "theme": "temps et fréquence",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "lundi",
+    "es": "lunes",
+    "theme": "temps et fréquence",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "mardi",
+    "es": "martes",
+    "theme": "temps et fréquence",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "mercredi",
+    "es": "miércoles",
+    "theme": "temps et fréquence",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "jeudi",
+    "es": "jueves",
+    "theme": "temps et fréquence",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "vendredi",
+    "es": "viernes",
+    "theme": "temps et fréquence",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "samedi",
+    "es": "sábado",
+    "theme": "temps et fréquence",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "dimanche",
+    "es": "domingo",
+    "theme": "temps et fréquence",
+    "niveau": "A1",
+    "type": "nom"
+  },
+  {
+    "fr": "aujourd'hui",
+    "es": "hoy",
+    "theme": "temps et fréquence",
+    "niveau": "A1",
+    "type": "adverbe"
+  },
+  {
+    "fr": "demain",
+    "es": "mañana",
+    "theme": "temps et fréquence",
+    "niveau": "A1",
+    "type": "adverbe"
+  },
+  {
+    "fr": "hier",
+    "es": "ayer",
+    "theme": "temps et fréquence",
+    "niveau": "A1",
+    "type": "adverbe"
+  },
+  {
+    "fr": "maintenant",
+    "es": "ahora",
+    "theme": "temps et fréquence",
+    "niveau": "A1",
+    "type": "adverbe"
+  },
+  {
+    "fr": "toujours",
+    "es": "siempre",
+    "theme": "temps et fréquence",
+    "niveau": "A1",
+    "type": "adverbe"
+  },
+  {
+    "fr": "jamais",
+    "es": "nunca",
+    "theme": "temps et fréquence",
+    "niveau": "A1",
+    "type": "adverbe"
+  },
+  {
+    "fr": "souvent",
+    "es": "a menudo",
+    "theme": "temps et fréquence",
+    "niveau": "A2",
+    "type": "adverbe"
+  },
+  {
+    "fr": "quelquefois, parfois",
+    "es": "a veces",
+    "theme": "temps et fréquence",
+    "niveau": "A1",
+    "type": "adverbe"
+  },
+  {
+    "fr": "tôt",
+    "es": "temprano",
+    "theme": "temps et fréquence",
+    "niveau": "A2",
+    "type": "adverbe"
+  },
+  {
+    "fr": "tard",
+    "es": "tarde",
+    "theme": "temps et fréquence",
+    "niveau": "A1",
+    "type": "adverbe"
+  },
+  {
+    "fr": "tous les jours",
+    "es": "todos los días",
+    "theme": "temps et fréquence",
+    "niveau": "A1",
+    "type": "expression"
+  },
+  {
+    "fr": "une fois par semaine",
+    "es": "una vez a la semana",
+    "theme": "temps et fréquence",
+    "niveau": "A2",
+    "type": "expression"
+  },
+  {
+    "fr": "quelle heure est-il ?",
+    "es": "¿qué hora es?",
+    "theme": "temps et fréquence",
+    "niveau": "A1",
+    "type": "expression"
+  },
+  {
+    "fr": "il est trois heures",
+    "es": "son las tres",
+    "theme": "temps et fréquence",
+    "niveau": "A1",
+    "type": "expression"
+  },
+  {
+    "fr": "la routine",
+    "es": "la rutina",
+    "theme": "routine quotidienne",
+    "niveau": "A2",
+    "type": "nom"
+  },
+  {
+    "fr": "se lever",
+    "es": "levantarse",
+    "theme": "routine quotidienne",
+    "niveau": "A1",
+    "type": "verbe"
+  },
+  {
+    "fr": "se réveiller",
+    "es": "despertarse",
+    "theme": "routine quotidienne",
+    "niveau": "A2",
+    "type": "verbe"
+  },
+  {
+    "fr": "se coucher",
+    "es": "acostarse",
+    "theme": "routine quotidienne",
+    "niveau": "A2",
+    "type": "verbe"
+  },
+  {
+    "fr": "se doucher",
+    "es": "ducharse",
+    "theme": "routine quotidienne",
+    "niveau": "A2",
+    "type": "verbe"
+  },
+  {
+    "fr": "se laver",
+    "es": "lavarse",
+    "theme": "routine quotidienne",
+    "niveau": "A2",
+    "type": "verbe"
+  },
+  {
+    "fr": "se peigner",
+    "es": "peinarse",
+    "theme": "routine quotidienne",
+    "niveau": "A2",
+    "type": "verbe"
+  },
+  {
+    "fr": "dormir",
+    "es": "dormir",
+    "theme": "routine quotidienne",
+    "niveau": "A1",
+    "type": "verbe"
+  },
+  {
+    "fr": "aller",
+    "es": "ir",
+    "theme": "routine quotidienne",
+    "niveau": "A1",
+    "type": "verbe"
+  },
+  {
+    "fr": "venir",
+    "es": "venir",
+    "theme": "routine quotidienne",
+    "niveau": "A1",
+    "type": "verbe"
+  },
+  {
+    "fr": "faire",
+    "es": "hacer",
+    "theme": "routine quotidienne",
+    "niveau": "A1",
+    "type": "verbe"
+  },
+  {
+    "fr": "avoir",
+    "es": "tener",
+    "theme": "routine quotidienne",
+    "niveau": "A1",
+    "type": "verbe"
+  },
+  {
+    "fr": "pouvoir",
+    "es": "poder",
+    "theme": "routine quotidienne",
+    "niveau": "A1",
+    "type": "verbe"
+  },
+  {
+    "fr": "vouloir",
+    "es": "querer",
+    "theme": "routine quotidienne",
+    "niveau": "A1",
+    "type": "verbe"
+  },
+  {
+    "fr": "devoir (obligation)",
+    "es": "deber",
+    "theme": "routine quotidienne",
+    "niveau": "A2",
+    "type": "verbe"
+  },
+  {
+    "fr": "commencer",
+    "es": "empezar",
+    "theme": "routine quotidienne",
+    "niveau": "A2",
+    "type": "verbe"
+  },
+  {
+    "fr": "finir, terminer",
+    "es": "terminar",
+    "theme": "routine quotidienne",
+    "niveau": "A2",
+    "type": "verbe"
+  },
+  {
+    "fr": "donner",
+    "es": "dar",
+    "theme": "routine quotidienne",
+    "niveau": "A1",
+    "type": "verbe"
+  },
+  {
+    "fr": "prendre, boire",
+    "es": "tomar",
+    "theme": "routine quotidienne",
+    "niveau": "A1",
+    "type": "verbe"
+  },
+  {
+    "fr": "voir",
+    "es": "ver",
+    "theme": "routine quotidienne",
+    "niveau": "A1",
+    "type": "verbe"
+  },
+  {
+    "fr": "attendre",
+    "es": "esperar",
+    "theme": "routine quotidienne",
+    "niveau": "A2",
+    "type": "verbe"
+  },
+  {
+    "fr": "s'asseoir",
+    "es": "sentarse",
+    "theme": "routine quotidienne",
+    "niveau": "A2",
+    "type": "verbe"
+  },
+  {
+    "fr": "être en train de parler",
+    "es": "estar hablando",
+    "theme": "routine quotidienne",
+    "niveau": "A2",
+    "type": "expression"
+  },
+  {
+    "fr": "aller + infinitif (futur proche)",
+    "es": "ir a + infinitivo",
+    "theme": "routine quotidienne",
+    "niveau": "A2",
+    "type": "expression"
+  },
+  {
+    "fr": "le, la (défini)",
+    "es": "el, la",
+    "theme": "mots outils",
+    "niveau": "A1",
+    "type": "article"
+  },
+  {
+    "fr": "les (défini pluriel)",
+    "es": "los, las",
+    "theme": "mots outils",
+    "niveau": "A1",
+    "type": "article"
+  },
+  {
+    "fr": "un, une",
+    "es": "un, una",
+    "theme": "mots outils",
+    "niveau": "A1",
+    "type": "article"
+  },
+  {
+    "fr": "des (indéfini pluriel)",
+    "es": "unos, unas",
+    "theme": "mots outils",
+    "niveau": "A1",
+    "type": "article"
+  },
+  {
+    "fr": "je",
+    "es": "yo",
+    "theme": "mots outils",
+    "niveau": "A1",
+    "type": "pronom"
+  },
+  {
+    "fr": "tu",
+    "es": "tú",
+    "theme": "mots outils",
+    "niveau": "A1",
+    "type": "pronom"
+  },
+  {
+    "fr": "il / elle",
+    "es": "él / ella",
+    "theme": "mots outils",
+    "niveau": "A1",
+    "type": "pronom"
+  },
+  {
+    "fr": "vous (de politesse)",
+    "es": "usted",
+    "theme": "mots outils",
+    "niveau": "A1",
+    "type": "pronom"
+  },
+  {
+    "fr": "nous",
+    "es": "nosotros",
+    "theme": "mots outils",
+    "niveau": "A1",
+    "type": "pronom"
+  },
+  {
+    "fr": "vous (pluriel familier)",
+    "es": "vosotros",
+    "theme": "mots outils",
+    "niveau": "A1",
+    "type": "pronom"
+  },
+  {
+    "fr": "ils / elles",
+    "es": "ellos / ellas",
+    "theme": "mots outils",
+    "niveau": "A1",
+    "type": "pronom"
+  },
+  {
+    "fr": "mon, ma",
+    "es": "mi",
+    "theme": "mots outils",
+    "niveau": "A1",
+    "type": "pronom"
+  },
+  {
+    "fr": "ton, ta",
+    "es": "tu",
+    "theme": "mots outils",
+    "niveau": "A1",
+    "type": "pronom"
+  },
+  {
+    "fr": "son, sa",
+    "es": "su",
+    "theme": "mots outils",
+    "niveau": "A1",
+    "type": "pronom"
+  },
+  {
+    "fr": "notre",
+    "es": "nuestro",
+    "theme": "mots outils",
+    "niveau": "A1",
+    "type": "pronom"
+  },
+  {
+    "fr": "votre (pluriel familier)",
+    "es": "vuestro",
+    "theme": "mots outils",
+    "niveau": "A2",
+    "type": "pronom"
+  },
+  {
+    "fr": "mes, tes (pluriel)",
+    "es": "mis, tus",
+    "theme": "mots outils",
+    "niveau": "A1",
+    "type": "pronom"
+  },
+  {
+    "fr": "ce, cette (près)",
+    "es": "este, esta",
+    "theme": "mots outils",
+    "niveau": "A1",
+    "type": "pronom"
+  },
+  {
+    "fr": "ce, cette (là-bas)",
+    "es": "ese, esa",
+    "theme": "mots outils",
+    "niveau": "A2",
+    "type": "pronom"
+  },
+  {
+    "fr": "qui ?",
+    "es": "¿quién?",
+    "theme": "mots outils",
+    "niveau": "A1",
+    "type": "pronom"
+  },
+  {
+    "fr": "quoi ?, quel ?",
+    "es": "¿qué?",
+    "theme": "mots outils",
+    "niveau": "A1",
+    "type": "pronom"
+  },
+  {
+    "fr": "où ?",
+    "es": "¿dónde?",
+    "theme": "mots outils",
+    "niveau": "A1",
+    "type": "adverbe"
+  },
+  {
+    "fr": "quand ?",
+    "es": "¿cuándo?",
+    "theme": "mots outils",
+    "niveau": "A1",
+    "type": "adverbe"
+  },
+  {
+    "fr": "comment ?",
+    "es": "¿cómo?",
+    "theme": "mots outils",
+    "niveau": "A1",
+    "type": "adverbe"
+  },
+  {
+    "fr": "pourquoi ?",
+    "es": "¿por qué?",
+    "theme": "mots outils",
+    "niveau": "A1",
+    "type": "adverbe"
+  },
+  {
+    "fr": "combien ?",
+    "es": "¿cuánto?",
+    "theme": "mots outils",
+    "niveau": "A1",
+    "type": "pronom"
+  },
+  {
+    "fr": "et",
+    "es": "y",
+    "theme": "mots outils",
+    "niveau": "A1",
+    "type": "expression"
+  },
+  {
+    "fr": "ou",
+    "es": "o",
+    "theme": "mots outils",
+    "niveau": "A1",
+    "type": "expression"
+  },
+  {
+    "fr": "mais",
+    "es": "pero",
+    "theme": "mots outils",
+    "niveau": "A1",
+    "type": "expression"
+  },
+  {
+    "fr": "parce que",
+    "es": "porque",
+    "theme": "mots outils",
+    "niveau": "A1",
+    "type": "expression"
+  },
+  {
+    "fr": "aussi",
+    "es": "también",
+    "theme": "mots outils",
+    "niveau": "A1",
+    "type": "adverbe"
+  },
+  {
+    "fr": "non plus",
+    "es": "tampoco",
+    "theme": "mots outils",
+    "niveau": "A2",
+    "type": "adverbe"
+  },
+  {
+    "fr": "très",
+    "es": "muy",
+    "theme": "mots outils",
+    "niveau": "A1",
+    "type": "adverbe"
+  },
+  {
+    "fr": "beaucoup",
+    "es": "mucho",
+    "theme": "mots outils",
+    "niveau": "A1",
+    "type": "adverbe"
+  },
+  {
+    "fr": "un peu",
+    "es": "un poco",
+    "theme": "mots outils",
+    "niveau": "A1",
+    "type": "adverbe"
+  },
+  {
+    "fr": "bien",
+    "es": "bien",
+    "theme": "mots outils",
+    "niveau": "A1",
+    "type": "adverbe"
+  },
+  {
+    "fr": "mal",
+    "es": "mal",
+    "theme": "mots outils",
+    "niveau": "A1",
+    "type": "adverbe"
+  },
+  {
+    "fr": "à, vers",
+    "es": "a",
+    "theme": "mots outils",
+    "niveau": "A1",
+    "type": "preposition"
+  },
+  {
+    "fr": "de, depuis",
+    "es": "de",
+    "theme": "mots outils",
+    "niveau": "A1",
+    "type": "preposition"
+  },
+  {
+    "fr": "avec",
+    "es": "con",
+    "theme": "mots outils",
+    "niveau": "A1",
+    "type": "preposition"
+  },
+  {
+    "fr": "sans",
+    "es": "sin",
+    "theme": "mots outils",
+    "niveau": "A1",
+    "type": "preposition"
+  },
+  {
+    "fr": "pour (destination)",
+    "es": "para",
+    "theme": "mots outils",
+    "niveau": "A1",
+    "type": "preposition"
+  },
+  {
+    "fr": "pour, par (cause)",
+    "es": "por",
+    "theme": "mots outils",
+    "niveau": "A2",
+    "type": "preposition"
+  },
+  {
+    "fr": "un",
+    "es": "uno",
+    "theme": "nombres",
+    "niveau": "A1",
+    "type": "adjectif"
+  },
+  {
+    "fr": "deux",
+    "es": "dos",
+    "theme": "nombres",
+    "niveau": "A1",
+    "type": "adjectif"
+  },
+  {
+    "fr": "trois",
+    "es": "tres",
+    "theme": "nombres",
+    "niveau": "A1",
+    "type": "adjectif"
+  },
+  {
+    "fr": "quatre",
+    "es": "cuatro",
+    "theme": "nombres",
+    "niveau": "A1",
+    "type": "adjectif"
+  },
+  {
+    "fr": "cinq",
+    "es": "cinco",
+    "theme": "nombres",
+    "niveau": "A1",
+    "type": "adjectif"
+  },
+  {
+    "fr": "six",
+    "es": "seis",
+    "theme": "nombres",
+    "niveau": "A1",
+    "type": "adjectif"
+  },
+  {
+    "fr": "sept",
+    "es": "siete",
+    "theme": "nombres",
+    "niveau": "A1",
+    "type": "adjectif"
+  },
+  {
+    "fr": "huit",
+    "es": "ocho",
+    "theme": "nombres",
+    "niveau": "A1",
+    "type": "adjectif"
+  },
+  {
+    "fr": "neuf (9)",
+    "es": "nueve",
+    "theme": "nombres",
+    "niveau": "A1",
+    "type": "adjectif"
+  },
+  {
+    "fr": "dix",
+    "es": "diez",
+    "theme": "nombres",
+    "niveau": "A1",
+    "type": "adjectif"
+  },
+  {
+    "fr": "onze",
+    "es": "once",
+    "theme": "nombres",
+    "niveau": "A1",
+    "type": "adjectif"
+  },
+  {
+    "fr": "douze",
+    "es": "doce",
+    "theme": "nombres",
+    "niveau": "A1",
+    "type": "adjectif"
+  },
+  {
+    "fr": "quinze",
+    "es": "quince",
+    "theme": "nombres",
+    "niveau": "A1",
+    "type": "adjectif"
+  },
+  {
+    "fr": "vingt",
+    "es": "veinte",
+    "theme": "nombres",
+    "niveau": "A1",
+    "type": "adjectif"
+  },
+  {
+    "fr": "trente",
+    "es": "treinta",
+    "theme": "nombres",
+    "niveau": "A1",
+    "type": "adjectif"
+  },
+  {
+    "fr": "quarante",
+    "es": "cuarenta",
+    "theme": "nombres",
+    "niveau": "A1",
+    "type": "adjectif"
+  },
+  {
+    "fr": "cinquante",
+    "es": "cincuenta",
+    "theme": "nombres",
+    "niveau": "A1",
+    "type": "adjectif"
+  },
+  {
+    "fr": "cent",
+    "es": "cien",
+    "theme": "nombres",
+    "niveau": "A1",
+    "type": "adjectif"
+  },
+  {
+    "fr": "mille",
+    "es": "mil",
+    "theme": "nombres",
+    "niveau": "A2",
+    "type": "adjectif"
+  },
+  {
+    "fr": "premier",
+    "es": "primero",
+    "theme": "nombres",
+    "niveau": "A2",
+    "type": "adjectif"
+  },
+  {
+    "fr": "deuxième",
+    "es": "segundo",
+    "theme": "nombres",
+    "niveau": "A2",
+    "type": "adjectif"
+  }
+]
